@@ -1,0 +1,724 @@
+,model,colours,ratings,reviews,selling_price(Rs),actual_price(Rs),off(%),connectivity,brand,type,colour,discount
+0,boAt Airdopes 491 True Wireless Bluetooth Headset,"Spirit Lime, True Wireless",3.6,751,2999,6974,57,Bluetooth Headset,boAt,True Wireless,Spirit Lime,3975
+1,boAt Airdopes 641 Bluetooth Headset,"Black Fusion, True Wireless",4.2,28,2999,6974,57,Bluetooth Headset,boAt,True Wireless,Black Fusion,3975
+2,OnePlus Bullets Wireless Z Bluetooth Headset,"Black, In the Ear",4.4,257701,1999,2173,8,Bluetooth Headset,OnePlus,In the Ear,Black,174
+3,OnePlus Bullets Wireless Z Bass Edition Bluetooth Heads...,"Reverb Red, In the Ear",4.4,102096,1999,2173,8,,OnePlus,In the Ear,Reverb Red,174
+4,Mivi Collar Classic with Fast Charging Bluetooth Headse...,"Black, In the Ear",4.0,802,999,2498,60,,Mivi,In the Ear,Black,1499
+5,boAt Rockerz 235v2 with ASAP charging Version 5.0 Bluet...,"Black, In the Ear",4.2,652588,1199,2924,59,,boAt,In the Ear,Black,1725
+6,boAt Airdopes 131 Bluetooth Headset,"Active Black, True Wireless",4.0,142104,1299,2952,56,Bluetooth Headset,boAt,True Wireless,Active Black,1653
+7,boAt Rockerz 235v2 with ASAP charging Version 5.0 Bluet...,"Blue, In the Ear",4.2,652588,1198,2922,59,,boAt,In the Ear,Blue,1724
+8,boAt Rockerz 335 Bluetooth Headset,"Ocean Blue, In the Ear",4.1,28841,1599,3900,59,Bluetooth Headset,boAt,In the Ear,Ocean Blue,2301
+9,boAt BassHeads 900 Wired Headset,"Carbon Black, On the Ear",4.4,146976,674,2407,72,Wired Headset,boAt,On the Ear,Carbon Black,1733
+10,boAt Bassheads 103 Black Wired Headset,"Black, In the Ear",4.3,205935,399,1287,69,Wired Headset,boAt,In the Ear,Black,888
+11,boAt BassHeads 100 Wired Headset,"Black, In the Ear",4.3,773917,399,998,60,Wired Headset,boAt,In the Ear,Black,599
+12,OnePlus Bullets Wireless Z Bass Edition Bluetooth Heads...,"Bass Blue, In the Ear",4.4,102096,1999,2173,8,,OnePlus,In the Ear,Bass Blue,174
+13,boAt Airdopes 641 Bluetooth Headset,"White Fury, True Wireless",4.2,28,2999,6974,57,Bluetooth Headset,boAt,True Wireless,White Fury,3975
+14,boAt Airdopes 131 Bluetooth Headset,"Cherry Blossom, True Wireless",4.0,142104,1299,2952,56,Bluetooth Headset,boAt,True Wireless,Cherry Blossom,1653
+15,boAt Bassheads 242 Wired Headset,"Active Black, In the Ear",4.3,179052,499,1468,66,Wired Headset,boAt,In the Ear,Active Black,969
+16,boAt Rockerz 335 Bluetooth Headset,"Raging Red, In the Ear",4.1,28841,1599,3900,59,Bluetooth Headset,boAt,In the Ear,Raging Red,2301
+17,boAt Bassheads 103 Blue Wired Headset,"Blue, In the Ear",4.3,205935,397,1281,69,Wired Headset,boAt,In the Ear,Blue,884
+18,ViVO High Bass Earphones Noise Isolating White 1103 Wir...,"White, In the Ear",3.5,16520,190,950,80,,ViVO,In the Ear,White,760
+19,OnePlus Buds Z Bluetooth Headset,"Grey, True Wireless",4.3,21618,2999,3157,5,Bluetooth Headset,OnePlus,True Wireless,Grey,158
+20,OPPO Earphone Wired Headset,"White, In the Ear",3.4,31734,192,960,80,Wired Headset,OPPO,In the Ear,White,768
+21,Boult Audio Bass Bud Q2 Wired Headset,"Black, On the Ear",4.1,6644,499,2495,80,Wired Headset,Boult,On the Ear,Black,1996
+22,boAt 103 Wireless Bluetooth Headset,"Active Black, In the Ear",4.0,24728,1199,1966,39,Bluetooth Headset,boAt,In the Ear,Active Black,767
+23,Boult Audio Air Bass Power Buds Bluetooth Headset,"Black, True Wireless",3.9,1037,2199,8796,75,Bluetooth Headset,Boult,True Wireless,Black,6597
+24,OnePlus Bullets Wireless Z Bluetooth Headset,"Mint, In the Ear",4.4,257701,1999,2173,8,Bluetooth Headset,OnePlus,In the Ear,Mint,174
+25,boAt Rockerz 255F Bluetooth Headset,"Active Black, In the Ear",4.2,692302,1299,2952,56,Bluetooth Headset,boAt,In the Ear,Active Black,1653
+26,boAt Rockerz 235v2 Bluetooth Headset,"Grey, In the Ear",4.2,652588,1195,2988,60,Bluetooth Headset,boAt,In the Ear,Grey,1793
+27,boAt Rockerz 235v2 with ASAP charging Version 5.0 Bluet...,"Red, In the Ear",4.2,652588,1199,2924,59,,boAt,In the Ear,Red,1725
+28,boAt BassHeads 220 Super Extra Bass Wired Headset,"Blue, In the Ear",4.2,700841,549,1036,47,Wired Headset,boAt,In the Ear,Blue,487
+29,SONY C400 Bluetooth Headset,"Black, In the Ear",4.0,12371,3499,3976,12,Bluetooth Headset,SONY,In the Ear,Black,477
+30,boAt BassHeads 100 Wired Headset,"Taffy Pink, In the Ear",4.3,773917,399,998,60,Wired Headset,boAt,In the Ear,Taffy Pink,599
+31,Boult Audio BassBuds Loop Wired Headset,"Black, In the Ear",4.1,77272,349,1163,70,Wired Headset,Boult,In the Ear,Black,814
+32,Mivi DuoPods M20 True Wireless Bluetooth Headset,"Black, True Wireless",4.0,105210,1199,2998,60,Bluetooth Headset,Mivi,True Wireless,Black,1799
+33,SONY WH-CH510 Google Assistant enabled Bluetooth Headse...,"Black, On the Ear",4.1,11107,3380,4971,32,,SONY,On the Ear,Black,1591
+34,boAt Airdopes 381 with ASAP charge Bluetooth Headset,"Active Black, True Wireless",3.9,103968,1999,4876,59,Bluetooth Headset,boAt,True Wireless,Active Black,2877
+35,boAt Rockerz 255F Pro with Fast Charging Bluetooth Head...,"Teal Green, In the Ear",4.2,119195,1299,3418,62,,boAt,In the Ear,Teal Green,2119
+36,boAt Airdopes 402 Bluetooth Headset,"Active Black, True Wireless",4.0,89231,1799,5803,69,Bluetooth Headset,boAt,True Wireless,Active Black,4004
+37,JBL C150SI Wired Headset,"Black, In the Ear",4.2,272801,699,1487,53,Wired Headset,JBL,In the Ear,Black,788
+38,OPPO Enco M31 EWN1O Bluetooth Headset,"Green, In the Ear",4.1,12324,1999,2984,33,Bluetooth Headset,OPPO,In the Ear,Green,985
+39,SONY WI-C310 Bluetooth Headset,"Black, In the Ear",4.1,7964,2699,2966,9,Bluetooth Headset,SONY,In the Ear,Black,267
+40,boAt BassHeads 100 Wired Headset,"Furious Red, In the Ear",4.3,773917,399,998,60,Wired Headset,boAt,In the Ear,Furious Red,599
+41,SONY ZX110A Wired without Mic Headset,"White, On the Ear",4.1,162791,649,1381,53,Mic Headset,SONY,On the Ear,White,732
+42,boAt Bassheads 242 Wired Headset,"Spirit Lime, In the Ear",4.3,179052,499,1468,66,Wired Headset,boAt,In the Ear,Spirit Lime,969
+43,Boult Audio Air Bass Free Pods Bluetooth Headset,"White, True Wireless",3.7,45749,1499,5996,75,Bluetooth Headset,Boult,True Wireless,White,4497
+44,OnePlus Buds Z Bluetooth Headset,"White, True Wireless",4.3,21618,2999,3157,5,Bluetooth Headset,OnePlus,True Wireless,White,158
+45,boAt Rockerz 335 Bluetooth Headset,"Blazing Yellow, In the Ear",4.1,28841,1599,3900,59,Bluetooth Headset,boAt,In the Ear,Blazing Yellow,2301
+46,Boult Audio ProBass Curve Neckband Bluetooth Headset,"Black, Grey, In the Ear",4.0,241264,1199,3426,65,Bluetooth Headset,Boult,In the Ear,Black Grey,2227
+47,boAt Bassheads 242 Wired Headset,"Neon Green, In the Ear",4.3,179052,499,1468,66,Wired Headset,boAt,In the Ear,Neon Green,969
+48,boAt Airdopes 381 with ASAP charge Bluetooth Headset,"Blue, True Wireless",3.9,103968,1999,4876,59,Bluetooth Headset,boAt,True Wireless,Blue,2877
+49,boAt Airdopes 402 Bluetooth Headset,"Rosegold White, True Wireless",4.0,89231,1799,5803,69,Bluetooth Headset,boAt,True Wireless,Rosegold White,4004
+50,boAt Rockerz 510 Super Extra Bass Bluetooth Headset,"Raging Red, On the Ear",4.4,115681,1699,2981,43,Bluetooth Headset,boAt,On the Ear,Raging Red,1282
+51,Boult Audio AirBass Combuds Bluetooth Headset,"Black, True Wireless",3.8,28399,1299,4996,74,Bluetooth Headset,Boult,True Wireless,Black,3697
+52,boAt Airdopes 402 Bluetooth Headset,"Bold Blue, True Wireless",4.0,89231,1799,5803,69,Bluetooth Headset,boAt,True Wireless,Bold Blue,4004
+53,Boult Audio Pro Bass Curve Pro Bluetooth Headset,"Grey, In the Ear",4.1,10468,1299,4996,74,Bluetooth Headset,Boult,In the Ear,Grey,3697
+54,Redmi by Mi Hi-Resolution Audio Wired Headset,"Blue, In the Ear",4.2,37429,399,596,33,Wired Headset,Redmi,In the Ear,Blue,197
+55,JBL C50HI Wired Headset,"Black, In the Ear",4.0,90859,499,998,50,Wired Headset,JBL,In the Ear,Black,499
+56,Boult Audio Air Bass Free Pods Bluetooth Headset,"Grey, Black, True Wireless",3.7,45749,1499,5996,75,Bluetooth Headset,Boult,True Wireless,Grey Black,4497
+57,Mivi Collar 2A with Fast Charging Bluetooth Headset,"Black, In the Ear",4.0,4965,1299,2952,56,Bluetooth Headset,Mivi,In the Ear,Black,1653
+58,boAt BassHeads 220 Wired Headset,"Red, In the Ear",4.2,700841,549,998,45,Wired Headset,boAt,In the Ear,Red,449
+59,boAt BassHeads 100 Wired Headset,"White, In the Ear",4.3,773917,399,831,52,Wired Headset,boAt,In the Ear,White,432
+60,OPPO combo of 2 earphone012 Wired Headset,"White, In the Ear",3.5,966,299,1495,80,Wired Headset,OPPO,In the Ear,White,1196
+61,Boult Audio ProBass Curve Neckband Bluetooth Headset,"Blue, Black, Grey, In the Ear",4.0,241264,1199,3426,65,Bluetooth Headset,Boult,In the Ear,Blue Black Grey,2227
+62,boAt BassHeads 220 Super Extra Bass Wired Headset,"Neon Lime, In the Ear",4.2,700841,549,998,45,Wired Headset,boAt,In the Ear,Neon Lime,449
+63,ViVO VOLDWH3312 Wired Headset,"White, In the Ear",3.5,3243,220,489,55,Wired Headset,ViVO,In the Ear,White,269
+64,boAt Rockerz 255F Bluetooth Headset,"Neon, In the Ear",4.2,692302,1299,2952,56,Bluetooth Headset,boAt,In the Ear,Neon,1653
+65,boAt Bassheads 242 Wired Headset,"Red, In the Ear",4.3,179052,549,1484,63,Wired Headset,boAt,In the Ear,Red,935
+66,Boult Audio ProBass Flow X Bluetooth Headset,"Black, In the Ear",4.0,22225,1099,3925,72,Bluetooth Headset,Boult,In the Ear,Black,2826
+67,Boult Audio ProBass Flow X Bluetooth Headset,"Blue, In the Ear",4.0,22225,1099,3925,72,Bluetooth Headset,Boult,In the Ear,Blue,2826
+68,REDMI SonicBass Neckband Bluetooth Headset,"Blue, In the Ear",4.1,28099,1299,1584,18,Bluetooth Headset,REDMI,In the Ear,Blue,285
+69,boAt Bassheads 242 Wired Headset,"Orange, In the Ear",4.3,179052,549,1484,63,Wired Headset,boAt,In the Ear,Orange,935
+70,SONY 310AP Wired Headset,"Blue, On the Ear",4.2,225106,949,2157,56,Wired Headset,SONY,On the Ear,Blue,1208
+71,ViVO NEW TOP EARPHONE WITH MIC Wired Headset,"White, In the Ear",3.4,15629,190,950,80,Wired Headset,ViVO,In the Ear,White,760
+72,Boult Audio Thunder Bluetooth Headset,"Black, On the Ear",4.1,11440,1199,3997,70,Bluetooth Headset,Boult,On the Ear,Black,2798
+73,Mivi DuoPods M20 True Wireless Bluetooth Headset,"Blue, True Wireless",4.0,105212,1199,2998,60,Bluetooth Headset,Mivi,True Wireless,Blue,1799
+74,boAt Airdopes 381 with ASAP charge Bluetooth Headset,"Active Black, True Wireless",3.9,103969,1999,4876,59,Bluetooth Headset,boAt,True Wireless,Active Black,2877
+75,Mivi Collar Neckband Bluetooth Headset,"Black, In the Ear",3.8,9799,999,2938,66,Bluetooth Headset,Mivi,In the Ear,Black,1939
+76,JBL C150SI Wired Headset,"Red, In the Ear",4.2,272802,699,1487,53,Wired Headset,JBL,In the Ear,Red,788
+77,Mivi DuoPods M20 True Wireless Bluetooth Headset,"White, True Wireless",4.0,105212,1199,2998,60,Bluetooth Headset,Mivi,True Wireless,White,1799
+78,Boult Audio AirBass Combuds Bluetooth Headset,"White, True Wireless",3.8,28401,1299,4996,74,Bluetooth Headset,Boult,True Wireless,White,3697
+79,boAt Airdopes 431 Bluetooth Headset,"Blue, True Wireless",3.8,26377,1999,5879,66,Bluetooth Headset,boAt,True Wireless,Blue,3880
+80,boAt Airdopes 491 True Wireless Bluetooth Headset,"Spirit Lime, True Wireless",3.6,752,2999,6974,57,Bluetooth Headset,boAt,True Wireless,Spirit Lime,3975
+81,OPPO Enco W11 Bluetooth Headset,"White, True Wireless",4.0,18526,1850,3936,53,Bluetooth Headset,OPPO,True Wireless,White,2086
+82,OPPO EARPHONE WIRED HEADSET Wired Headset,"White, In the Ear",3.4,1162,174,967,82,Wired Headset,OPPO,In the Ear,White,793
+83,boAt Rockerz 255F Pro with Fast Charging Bluetooth Head...,"Raging Red, In the Ear",4.2,119192,1349,3459,61,,boAt,In the Ear,Raging Red,2110
+84,boAt Airdopes 641 Bluetooth Headset,"Black Fusion, True Wireless",4.2,30,2999,6974,57,Bluetooth Headset,boAt,True Wireless,Black Fusion,3975
+85,boAt BassHeads 182 Wired Headset,"Active Black, In the Ear",4.3,91509,498,1277,61,Wired Headset,boAt,In the Ear,Active Black,779
+86,boAt Airdopes 381 with ASAP charge Bluetooth Headset,"Teal Blue, True Wireless",3.9,103969,1999,4876,59,Bluetooth Headset,boAt,True Wireless,Teal Blue,2877
+87,boAt 103 Wireless Bluetooth Headset,"Mint Pink, In the Ear",4.0,24727,1199,1966,39,Bluetooth Headset,boAt,In the Ear,Mint Pink,767
+88,SONY 310AP Wired Headset,"Black, On the Ear",4.2,225111,949,2157,56,Wired Headset,SONY,On the Ear,Black,1208
+89,boAt Airdopes 381 with ASAP charge Bluetooth Headset,"Mint Purple, True Wireless",3.9,103969,1999,4876,59,Bluetooth Headset,boAt,True Wireless,Mint Purple,2877
+90,boAt Airdopes 641 Bluetooth Headset,"White Fury, True Wireless",4.2,30,2999,6974,57,Bluetooth Headset,boAt,True Wireless,White Fury,3975
+91,boAt Rockerz 195 Bluetooth Headset,"Blue Bliss, In the Ear",4.1,4372,1299,1968,34,Bluetooth Headset,boAt,In the Ear,Blue Bliss,669
+92,boAt Airdopes 281v2 Bluetooth Headset,"Black, In the Ear",4.0,1972,1799,4997,64,Bluetooth Headset,boAt,In the Ear,Black,3198
+93,boAt Rockerz 255 Bluetooth Headset,"MI Blue, In the Ear",4.2,692301,1299,2952,56,Bluetooth Headset,boAt,In the Ear,MI Blue,1653
+94,boAt Airdopes 402 Bluetooth Headset,"Active Black, True Wireless",4.0,89235,1799,5803,69,Bluetooth Headset,boAt,True Wireless,Active Black,4004
+95,Redmi by Mi Hi-Resolution Audio Wired Headset,"Red, In the Ear",4.2,37433,399,596,33,Wired Headset,Redmi,In the Ear,Red,197
+96,boAt BassHeads 900 Super Extra Bass Wired Headset,"Pearl White, On the Ear",4.4,146980,795,2484,68,Wired Headset,boAt,On the Ear,Pearl White,1689
+97,Portronics Harmonics 222 Bluetooth Headset,"Black, In the Ear",4.1,31186,899,1998,55,Bluetooth Headset,Portronics,In the Ear,Black,1099
+98,Boult Audio BassBuds Storm Wired Headset,"Black, Grey, In the Ear",4.1,104694,399,998,60,Wired Headset,Boult,In the Ear,Black Grey,599
+99,OPPO HIGH BASS HEADPHONE 0Z41ukiut Wired Headset,"White, In the Ear",4.2,18,230,590,61,Wired Headset,OPPO,In the Ear,White,360
+100,OnePlus Buds Z Bluetooth Headset,"Grey, True Wireless",4.3,21626,2999,3157,5,Bluetooth Headset,OnePlus,True Wireless,Grey,158
+101,boAt Rockerz 450 Bluetooth Headset,"Hazel Beige, On the Ear",4.3,143165,1499,3945,62,Bluetooth Headset,boAt,On the Ear,Hazel Beige,2446
+102,boAt Rockerz 370 Bluetooth Headset,"Buoyant Black, On the Ear",4.2,13076,1199,2498,52,Bluetooth Headset,boAt,On the Ear,Buoyant Black,1299
+103,Portronics Harmonics 222 / POR 1045 Bluetooth Headset,"Red, In the Ear",4.1,31186,899,1998,55,Bluetooth Headset,Portronics,In the Ear,Red,1099
+104,SONY C400 Bluetooth Headset,"Black, In the Ear",4.0,12375,3499,3976,12,Bluetooth Headset,SONY,In the Ear,Black,477
+105,OPPO Earphone Headphone Wired Headset,"White, In the Ear",3.5,3287,199,995,80,Wired Headset,OPPO,In the Ear,White,796
+106,JBL T160BT Bluetooth Headset,"Black, In the Ear",3.8,73494,1499,2498,40,Bluetooth Headset,JBL,In the Ear,Black,999
+107,JBL T160 Wired Headset,"Black, In the Ear",4.1,117195,749,1291,42,Wired Headset,JBL,In the Ear,Black,542
+108,REDMI Earbuds S Bluetooth Headset,"Black, True Wireless",4.0,11730,1799,2399,25,Bluetooth Headset,REDMI,True Wireless,Black,600
+109,boAt BassHeads 220 Super Extra Bass Wired Headset,"Frosty White, In the Ear",4.2,700843,549,980,44,Wired Headset,boAt,In the Ear,Frosty White,431
+110,Boult Audio Air Bass Power Buds Bluetooth Headset,"Black, True Wireless",3.9,1038,2199,8796,75,Bluetooth Headset,Boult,True Wireless,Black,6597
+111,JBL T160 Wired Headset,"Black, In the Ear",4.1,117194,749,1291,42,Wired Headset,JBL,In the Ear,Black,542
+112,boAt Rockerz 400 Bluetooth Headset,"Red, Black, On the Ear",4.3,291023,1499,2939,49,Bluetooth Headset,boAt,On the Ear,Red Black,1440
+113,boAt BassHeads 220 Super Extra Bass Wired Headset,"Frosty White, In the Ear",4.2,700841,549,980,44,Wired Headset,boAt,In the Ear,Frosty White,431
+114,Mivi Collar Neckband Bluetooth Headset,"Black, In the Ear",3.8,9797,999,2938,66,Bluetooth Headset,Mivi,In the Ear,Black,1939
+115,Boult Audio BassBuds StormX Wired Headset,"Blue, Black, In the Ear",4.1,14089,349,997,65,Wired Headset,Boult,In the Ear,Blue Black,648
+116,boAt Airdopes 381 with ASAP charge Bluetooth Headset,"Mint Pink, True Wireless",3.9,103968,1999,4876,59,Bluetooth Headset,boAt,True Wireless,Mint Pink,2877
+117,boAt Rockerz 450 Pro Bluetooth Headset,"Luscious Black, On the Ear",4.2,1114,1999,3920,49,Bluetooth Headset,boAt,On the Ear,Luscious Black,1921
+118,Boult Audio AirBass Probuds Bluetooth Headset,"Black, True Wireless",3.8,5577,1799,7822,77,Bluetooth Headset,Boult,True Wireless,Black,6023
+119,OnePlus Buds Z Bluetooth Headset,"Steven Harrington Edition, True Wireless",4.3,21618,3699,3977,7,Bluetooth Headset,OnePlus,True Wireless,Steven Harrington Edition,278
+120,OnePlus Buds Bluetooth Headset,"Grey, True Wireless",4.2,17028,4990,9980,50,Bluetooth Headset,OnePlus,True Wireless,Grey,4990
+121,boAt BassHeads 182 Wired Headset,"Jazzy Blue, In the Ear",4.3,91507,498,1277,61,Wired Headset,boAt,In the Ear,Jazzy Blue,779
+122,REDMI Earbuds S Bluetooth Headset,"Black, True Wireless",4.0,11731,1799,2399,25,Bluetooth Headset,REDMI,True Wireless,Black,600
+123,SONY EX14AP Wired Headset,"Black, In the Ear",4.1,124378,888,1287,31,Wired Headset,SONY,In the Ear,Black,399
+124,SONY 310AP Wired Headset,"Red, On the Ear",4.2,225106,949,2157,56,Wired Headset,SONY,On the Ear,Red,1208
+125,boAt Rockerz 255 Bluetooth Headset,"DC Blue, In the Ear",4.2,692302,1299,2952,56,Bluetooth Headset,boAt,In the Ear,DC Blue,1653
+126,JBL C150SI Wired Headset,"White, In the Ear",4.2,272801,699,1398,50,Wired Headset,JBL,In the Ear,White,699
+127,Boult Audio BassBuds Storm Wired Headset,"Red, Grey, In the Ear",4.1,104691,399,998,60,Wired Headset,Boult,In the Ear,Red Grey,599
+128,PHILIPS TAT1215BK (TWS) with IPX4 Splash-Proof Design B...,"Black, True Wireless",3.8,15935,1899,4997,62,,PHILIPS,True Wireless,Black,3098
+129,PHILIPS SHE1505BK/94 Wired Headset,"Black, In the Ear",4.1,7534,349,397,12,Wired Headset,PHILIPS,In the Ear,Black,48
+130,SONY WH-CH510 Google Assistant enabled Bluetooth Headse...,"Blue, On the Ear",4.1,11107,3299,4924,33,,SONY,On the Ear,Blue,1625
+131,boAt Airdopes 381 with ASAP charge Bluetooth Headset,"Mint Green, True Wireless",3.9,103968,1999,4876,59,Bluetooth Headset,boAt,True Wireless,Mint Green,2877
+132,SONY EX14AP Wired Headset,"Blue, In the Ear",4.1,124378,699,1271,45,Wired Headset,SONY,In the Ear,Blue,572
+133,boAt Rockerz 510 Super Extra Bass Bluetooth Headset,"Viper Green, On the Ear",4.4,115681,1999,3920,49,Bluetooth Headset,boAt,On the Ear,Viper Green,1921
+134,ViVO High Bass Earphones Noise Isolating 1101 Wired Hea...,"White, In the Ear",3.4,11783,190,826,77,,ViVO,In the Ear,White,636
+135,boAt Rockerz 450 Pro Bluetooth Headset,"Aqua Blue, On the Ear",4.2,1114,1999,3920,49,Bluetooth Headset,boAt,On the Ear,Aqua Blue,1921
+136,Boult Audio Airbass Truebuds Bluetooth Headset,"Red, True Wireless",3.9,7357,1799,7822,77,Bluetooth Headset,Boult,True Wireless,Red,6023
+137,boAt Rockerz 370 Bluetooth Headset,"Fiery Red, On the Ear",4.2,13070,1234,2468,50,Bluetooth Headset,boAt,On the Ear,Fiery Red,1234
+138,boAt Rockerz 255 Bluetooth Headset,"CSK Blue, In the Ear",4.2,692302,1299,2952,56,Bluetooth Headset,boAt,In the Ear,CSK Blue,1653
+139,boAt Airdopes 381 with ASAP charge Bluetooth Headset,"Army Green, True Wireless",3.9,103968,1999,4876,59,Bluetooth Headset,boAt,True Wireless,Army Green,2877
+140,JBL C50HI Wired Headset,"Red, In the Ear",4.0,90859,499,998,50,Wired Headset,JBL,In the Ear,Red,499
+141,boAt BassHeads 172 Wired Headset,"Raging Red, In the Ear",4.3,77557,499,1279,61,Wired Headset,boAt,In the Ear,Raging Red,780
+142,Boult Audio BassBuds Storm Wired Headset,"Grey, In the Ear",4.1,104694,399,998,60,Wired Headset,Boult,In the Ear,Grey,599
+143,boAt Airdopes 281v2 Bluetooth Headset,"Blue, In the Ear",4.0,1972,1799,4997,64,Bluetooth Headset,boAt,In the Ear,Blue,3198
+144,Mivi DuoPods M20 True Wireless Bluetooth Headset,"Red, True Wireless",4.0,105212,1199,2998,60,Bluetooth Headset,Mivi,True Wireless,Red,1799
+145,boAt Rockerz 261 Bluetooth Headset,"Jazzy Blue, In the Ear",4.1,21897,1199,4796,75,Bluetooth Headset,boAt,In the Ear,Jazzy Blue,3597
+146,boAt Rockerz 400 Super Extra Bass Bluetooth Headset,"Blue, Black, On the Ear",4.3,291023,1499,2776,46,Bluetooth Headset,boAt,On the Ear,Blue Black,1277
+147,HRX X-Drops 9G with Quick Touch Technology Bluetooth He...,"Galaxy Blue, True Wireless",3.8,2829,2599,4998,48,,HRX,True Wireless,Galaxy Blue,2399
+148,boAt BassHeads 100 Chennai Super Kings Edition Wired He...,"Black, In the Ear",4.3,773918,499,998,50,,boAt,In the Ear,Black,499
+149,boAt Rockerz 255 Bluetooth Headset,"KKR Thunder Purple, In the Ear",4.2,692301,1299,2952,56,Bluetooth Headset,boAt,In the Ear,KKR Thunder Purple,1653
+150,OPPO DEEP BASS EARPHONE COMPATIBLE WITH ALL MOBILE PHON...,"White, In the Ear",3.6,625,158,988,84,,OPPO,In the Ear,White,830
+151,boAt Rockerz 195 Bluetooth Headset,"Fiery Black, In the Ear",4.1,4372,1299,1968,34,Bluetooth Headset,boAt,In the Ear,Fiery Black,669
+152,JBL Tune 125BT Bluetooth Headset,"Blue, In the Ear",3.8,759,1699,2981,43,Bluetooth Headset,JBL,In the Ear,Blue,1282
+153,Boult Audio BassBuds Oak Pure-Wood Wired Headset,"Beige, In the Ear",4.1,35299,499,1279,61,Wired Headset,Boult,In the Ear,Beige,780
+154,boAt Airdopes 431 Bluetooth Headset,"Red, True Wireless",3.8,26377,1999,5879,66,Bluetooth Headset,boAt,True Wireless,Red,3880
+155,REDMI High Definition Bass Stereo Sound HHGGV Wired Hea...,"White, In the Ear",3.7,21,249,732,66,,REDMI,In the Ear,White,483
+156,boAt Rockerz 255F Pro with Fast Charging Bluetooth Head...,"Blazing Yellow, In the Ear",4.2,119192,1399,3498,60,,boAt,In the Ear,Blazing Yellow,2099
+157,ViVO 730 Wireless Neckband Bluetooth Headset,"Black, In the Ear",3.8,10,499,1468,66,Bluetooth Headset,ViVO,In the Ear,Black,969
+158,ViVO rock High Bass Earphones Noise Isolating 1101 Wire...,"Black, In the Ear",3.6,1164,245,721,66,,ViVO,In the Ear,Black,476
+159,PHILIPS TAUT102BK True Wireless(TWS) with Voice Assista...,"Black, True Wireless",3.9,1856,2099,5997,65,,PHILIPS,True Wireless,Black,3898
+160,JBL Tune 110 Wired Headset,"Blue, In the Ear",4.0,34170,749,1269,41,Wired Headset,JBL,In the Ear,Blue,520
+161,boAt Rockerz 600 HD Sound Bluetooth Headset,"Black, On the Ear",4.3,19793,1999,3920,49,Bluetooth Headset,boAt,On the Ear,Black,1921
+162,JBL Endurance Run Wired Headset,"Yellow, In the Ear",4.3,27456,1049,1589,34,Wired Headset,JBL,In the Ear,Yellow,540
+163,ViVO Combo of 2 earph 012 Wired Headset,"D WHITE, In the Ear",3.4,443,249,1245,80,Wired Headset,ViVO,In the Ear,D WHITE,996
+164,boAt Airdopes 381 with ASAP charge Bluetooth Headset,"Spirit Lime, True Wireless",3.9,103969,1999,4876,59,Bluetooth Headset,boAt,True Wireless,Spirit Lime,2877
+165,Boult Audio Air Bass Muse Buds Bluetooth Headset,"Red, True Wireless",3.8,3567,1499,6814,78,Bluetooth Headset,Boult,True Wireless,Red,5315
+166,HRX X-Drops 9G with Quick Touch Technology Bluetooth He...,"Cosmic Black, True Wireless",3.8,2829,2599,4998,48,,HRX,True Wireless,Cosmic Black,2399
+167,SONY WH-CH510 Google Assistant enabled Bluetooth Headse...,"Black, On the Ear",4.1,11106,3380,4971,32,,SONY,On the Ear,Black,1591
+168,Portronics Harmonics 216 Bluetooth Headset,"Blue, In the Ear",4.0,4228,899,1998,55,Bluetooth Headset,Portronics,In the Ear,Blue,1099
+169,Portronics Harmonics Twins 22 Smart TWS Earpods Bluetoo...,"Black, True Wireless",3.8,11613,1099,2970,63,,Portronics,True Wireless,Black,1871
+170,OPPO combo of 2 earphone Wired Headset,"Pure White, In the Ear",3.6,95,299,1495,80,Wired Headset,OPPO,In the Ear,Pure White,1196
+171,Boult Audio ProBass Buster Neckband in-Ear Wireless Blu...,"Black, In the Ear",3.8,3560,1199,4996,76,,Boult,In the Ear,Black,3797
+172,boAt Bassheads 100 MI Edition Wired Headset,"Blue, In the Ear",4.2,3124,499,1279,61,Wired Headset,boAt,In the Ear,Blue,780
+173,HRX X-Wave 7R with Flex Fold Design Technology Bluetoot...,"Mars Red, In the Ear",3.9,1862,999,2498,60,,HRX,In the Ear,Mars Red,1499
+174,JBL T450BT Extra Bass Bluetooth Headset,"Blue, On the Ear",4.2,66192,2499,3471,28,Bluetooth Headset,JBL,On the Ear,Blue,972
+175,ViVO new stylist headphone with super quality Wired Hea...,"Black, In the Ear",3.7,303,245,980,75,,ViVO,In the Ear,Black,735
+176,JBL T205BT Bluetooth Headset,"Blue, In the Ear",3.9,12293,1599,2961,46,Bluetooth Headset,JBL,In the Ear,Blue,1362
+177,OnePlus Buds Bluetooth Headset,"Nord Blue, True Wireless",4.2,17029,4990,9980,50,Bluetooth Headset,OnePlus,True Wireless,Nord Blue,4990
+178,ViVO Natural Sound System with mic Wired Headset,"White, In the Ear",3.6,274,149,993,85,Wired Headset,ViVO,In the Ear,White,844
+179,OPPO Deep Bass Original Wired Headphone Wired Headset,"White, In the Ear",3.4,6290,195,975,80,Wired Headset,OPPO,In the Ear,White,780
+180,JBL T500BT Bluetooth Headset,"Black, On the Ear",4.3,2731,2790,3770,26,Bluetooth Headset,JBL,On the Ear,Black,980
+181,Mivi Collar 2A with Fast Charging Bluetooth Headset,"Orange, In the Ear",4.1,4970,1399,2977,53,Bluetooth Headset,Mivi,In the Ear,Orange,1578
+182,JBL T205BT Bluetooth Headset,"Black, In the Ear",3.9,12293,1598,2959,46,Bluetooth Headset,JBL,In the Ear,Black,1361
+183,SONY XB55AP Wired Headset,"Black, In the Ear",4.4,18488,1999,2468,19,Wired Headset,SONY,In the Ear,Black,469
+184,Mivi Collar 2A with Fast Charging Bluetooth Headset,"Red, In the Ear",4.1,4970,1399,2977,53,Bluetooth Headset,Mivi,In the Ear,Red,1578
+185,boAt Airdopes 201 Earbuds Bluetooth Headset,"Active Black, True Wireless",4.0,37611,1999,3998,50,Bluetooth Headset,boAt,True Wireless,Active Black,1999
+186,boAt Rockerz 510 Super Extra Bass Bluetooth Headset,"Molten Orange, On the Ear",4.4,115682,1799,3460,48,Bluetooth Headset,boAt,On the Ear,Molten Orange,1661
+187,Boult Audio Probass Boost Bluetooth Headset,"Black, Red, On the Ear",3.9,1032,1299,4639,72,Bluetooth Headset,Boult,On the Ear,Black Red,3340
+188,Portronics Harmonics 216 Bluetooth Headset,"Black, In the Ear",4.0,4228,899,1998,55,Bluetooth Headset,Portronics,In the Ear,Black,1099
+189,Skullcandy Ink'd Headset with mic,"Gray Mint, In the Ear",4.0,172743,969,1671,42,with mic,Skullcandy,In the Ear,Gray Mint,702
+190,HRX X-Streak 2Q Wired Headset,"Blue, In the Ear",3.7,80,396,591,33,Wired Headset,HRX,In the Ear,Blue,195
+191,OPPO MODEL 009 WIRED HEADSET Wired Headset,"White, In the Ear",3.5,327,169,889,81,Wired Headset,OPPO,In the Ear,White,720
+192,ViVO High Bass Earphones Noise Isolating Wired Headset,"White, In the Ear",3.4,2631,165,971,83,Wired Headset,ViVO,In the Ear,White,806
+193,ViVO HANDSFREE_20 Wired Headset,"White, In the Ear",3.6,4711,194,497,61,Wired Headset,ViVO,In the Ear,White,303
+194,Mivi DuoPods M80 True Wireless Bluetooth Headset with a...,"Blue, True Wireless",4.0,1489,2999,5998,50,,Mivi,True Wireless,Blue,2999
+195,JBL T210 Wired Headset,"Black, In the Ear",4.1,11007,959,1199,20,Wired Headset,JBL,In the Ear,Black,240
+196,boAt Rockerz 261 Bluetooth Headset,"Raging Red, In the Ear",4.1,21897,1199,4796,75,Bluetooth Headset,boAt,In the Ear,Raging Red,3597
+197,ORAIMO OEP-E21 Wired Headset,"Black, In the Ear",3.9,1168,289,578,50,Wired Headset,ORAIMO,In the Ear,Black,289
+198,SONY XB55AP Wired Headset,"Blue, In the Ear",4.4,18488,2199,2471,11,Wired Headset,SONY,In the Ear,Blue,272
+199,SONY WI-XB400 Extra Bass Wireless Stereo Headset Blueto...,"Blue, In the Ear",4.1,2041,3990,4988,20,,SONY,In the Ear,Blue,998
+200,OPPO 3.5mm-Jack Wired Headset,"White, In the Ear",3.5,3310,199,995,80,Wired Headset,OPPO,In the Ear,White,796
+201,SONY EX255AP Wired Headset,"Black, In the Ear",4.2,2695,1699,1976,14,Wired Headset,SONY,In the Ear,Black,277
+202,Boult Audio AirBass Probuds Bluetooth Headset,"White, True Wireless",3.8,5577,1799,7822,77,Bluetooth Headset,Boult,True Wireless,White,6023
+203,SONY WI-C200 Bluetooth Headset,"Black, In the Ear",4.1,4626,2290,2974,23,Bluetooth Headset,SONY,In the Ear,Black,684
+204,Portronics Harmonics 230 Bluetooth Headset,"Black, In the Ear",4.2,29,799,1998,60,Bluetooth Headset,Portronics,In the Ear,Black,1199
+205,boAt 103 Wireless Bluetooth Headset,"Mint Green, In the Ear",4.0,24728,1990,3980,50,Bluetooth Headset,boAt,In the Ear,Mint Green,1990
+206,Portronics POR-678 Conch Beta Wired Headset,"White, In the Ear",4.1,8498,379,592,36,Wired Headset,Portronics,In the Ear,White,213
+207,JBL LIVE200BT Wireless In-Ear Neckband Bluetooth Headse...,"Blue, In the Ear",3.7,4603,3199,5244,39,,JBL,In the Ear,Blue,2045
+208,SONY XB450AP Wired Headset,"Black, On the Ear",4.3,9485,2099,2469,15,Wired Headset,SONY,On the Ear,Black,370
+209,Portronics POR-927 Harmonics 200 Wireless Stereo Blueto...,"Black, In the Ear",4.2,3441,2099,2999,30,,Portronics,In the Ear,Black,900
+210,boAt Rockerz 370 Bluetooth Headset,"Gregarious Green, On the Ear",4.2,13070,1399,2498,44,Bluetooth Headset,boAt,On the Ear,Gregarious Green,1099
+211,Boult Audio AirBass LiveBuds Bluetooth Headset,"Red, True Wireless",3.7,3332,1299,8660,85,Bluetooth Headset,Boult,True Wireless,Red,7361
+212,boAt Rockerz 600 HD Sound Bluetooth Headset,"Brown, On the Ear",4.3,19790,1999,3920,49,Bluetooth Headset,boAt,On the Ear,Brown,1921
+213,JBL Quantum 100 Wired Gaming Headset,"Black, On the Ear",4.1,329,2599,3998,35,Gaming Headset,JBL,On the Ear,Black,1399
+214,JBL T500BT Bluetooth Headset,"Blue, On the Ear",4.3,2731,2940,3769,22,Bluetooth Headset,JBL,On the Ear,Blue,829
+215,Sony MDR-AS210 Open-Ear Active Sports Headphones,Blue,4.1,17224,879,888,1,Sports Headphones,Sony,,,9
+216,JBL Endurance RunBT IPX5 Sports Bluetooth Headset,"Black, Grey, In the Ear",4.0,9253,2049,3152,35,Bluetooth Headset,JBL,In the Ear,Black Grey,1103
+217,REDMI YDJC01JY Wired Headset,"Black, In the Ear",3.1,139,399,596,33,Wired Headset,REDMI,In the Ear,Black,197
+218,OPPO Buds 2 Wired Headset 0054154 Wired Headset,"Black, In the Ear",3.1,16,249,566,56,Wired Headset,OPPO,In the Ear,Black,317
+219,Boult Audio ProBass Space Bluetooth Headset,"Black, Grey, In the Ear",3.2,6177,699,3329,79,Bluetooth Headset,Boult,In the Ear,Black Grey,2630
+220,OPPO MH-139 MODEL WITH MIC PACK OF 2 Wired Headset,"White, In the Ear",3.5,204,199,995,80,Wired Headset,OPPO,In the Ear,White,796
+221,OPPO Enco W31 ETI11 / ETI112 Bluetooth Headset,"Black, True Wireless",4.1,1407,3499,5931,41,Bluetooth Headset,OPPO,True Wireless,Black,2432
+222,Skullcandy Ink'd Headset with mic,"Standard Issue, In the Ear",4.0,172741,925,1682,45,with mic,Skullcandy,In the Ear,Standard Issue,757
+223,ViVO White_Buds Wired Headset,"White, In the Ear",3.6,387,199,349,43,Wired Headset,ViVO,In the Ear,White,150
+224,REDMI Original High Bass Sound stereo Headphone 02 Wire...,"White, In the Ear",3.7,81,249,498,50,,REDMI,In the Ear,White,249
+225,ViVO XE 680 High Bass Sound stereo Wired Headset,"White, In the Ear",3.4,502,191,796,76,Wired Headset,ViVO,In the Ear,White,605
+226,JBL Endurance RunBT IPX5 Sports Bluetooth Headset,"Green, Black, Yellow, In the Ear",4.0,9253,1999,3173,37,Bluetooth Headset,JBL,In the Ear,Green Black Yellow,1174
+227,SONY WI-C310 Bluetooth Headset,"Blue, In the Ear",4.1,7964,2749,2988,8,Bluetooth Headset,SONY,In the Ear,Blue,239
+228,Skullcandy Jib Headset with mic,"Black, In the Ear",4.0,59306,768,997,23,with mic,Skullcandy,In the Ear,Black,229
+229,Boult Audio X1 Wired Headset,"Blue Black, In the Ear",4.2,87152,299,997,70,Wired Headset,Boult,In the Ear,Blue Black,698
+230,SONY WI-XB400 Extra Bass Wireless Stereo Headset Blueto...,"Blue, In the Ear",4.1,2043,3990,4988,20,,SONY,In the Ear,Blue,998
+231,JBL Quantum 100 Wired Gaming Headset,"Blue, On the Ear",4.1,329,2599,3998,35,Gaming Headset,JBL,On the Ear,Blue,1399
+232,JBL Quantum 50 Wired Gaming Headset,"Black, Orange, In the Ear",4.0,136,1499,2498,40,Gaming Headset,JBL,In the Ear,Black Orange,999
+233,OPPO Enco W51 with Active Noise Cancellation Bluetooth ...,"Starry Blue, True Wireless",4.1,1248,4999,6943,28,,OPPO,True Wireless,Starry Blue,1944
+234,"Portronics Harmonics Twins 33, POR-1175 Bluetooth Heads...","White, True Wireless",4.0,651,1499,3486,57,,Portronics,True Wireless,White,1987
+235,SONY EX15AP Wired Headset,"Blue, In the Ear",4.0,8065,872,890,2,Wired Headset,SONY,In the Ear,Blue,18
+236,Skullcandy Ink'd Headset with mic,"Black & Red, In the Ear",4.0,172743,959,1682,43,with mic,Skullcandy,In the Ear, Red,723
+237,JBL T165BT Bluetooth Headset,"Blue, In the Ear",3.8,3027,1749,2691,35,Bluetooth Headset,JBL,In the Ear,Blue,942
+238,HRX X-Wave 14R with Bass Boost Mode Bluetooth Headset,"Comet Red, In the Ear",3.7,777,1599,2961,46,Bluetooth Headset,HRX,In the Ear,Comet Red,1362
+239,PHILIPS UpBeat TAUH202BK Wireless Bluetooth Headset,"Black, On the Ear",4.0,225,2499,3288,24,Bluetooth Headset,PHILIPS,On the Ear,Black,789
+240,SONY AS210AP SPORTS Wired Headset,"Black, In the Ear",4.2,7413,1099,1278,14,Wired Headset,SONY,In the Ear,Black,179
+241,Boult Audio BassBuds X2 Wired Headset,"Red, In the Ear",3.6,1039,299,1196,75,Wired Headset,Boult,In the Ear,Red,897
+242,SONY WI-SP510 Bluetooth Headset,"Black, In the Ear",4.0,986,4875,6964,30,Bluetooth Headset,SONY,In the Ear,Black,2089
+243,OPPO Enco W31 ETI11 / ETI112 Bluetooth Headset,"White, True Wireless",4.1,1408,3499,5931,41,Bluetooth Headset,OPPO,True Wireless,White,2432
+244,JBL Endurance Run Wired Headset,"Teal, In the Ear",4.3,27456,1149,1596,28,Wired Headset,JBL,In the Ear,Teal,447
+245,SONY EX155AP Wired Headset,"Light Blue, In the Ear",4.2,17465,1270,1283,1,Wired Headset,SONY,In the Ear,Light Blue,13
+246,SONY EX155 Wired Headset,"Red, In the Ear",4.2,17465,1099,1278,14,Wired Headset,SONY,In the Ear,Red,179
+247,Boult Audio ProBass Muse Bluetooth Headset,"Black, In the Ear",3.7,2908,799,3474,77,Bluetooth Headset,Boult,In the Ear,Black,2675
+248,ViVO 3 Wired Headset,"White, In the Ear",3.6,218,199,905,78,Wired Headset,ViVO,In the Ear,White,706
+249,boAt Rockerz 305v2 Bluetooth Headset,"Active Black, In the Ear",3.8,247,1599,3900,59,Bluetooth Headset,boAt,In the Ear,Active Black,2301
+250,SONY WI-SP510 Bluetooth Headset,"Blue, In the Ear",4.0,986,4990,6931,28,Bluetooth Headset,SONY,In the Ear,Blue,1941
+251,SONY EX155 Wired Headset,"Black, In the Ear",4.2,17465,1225,1289,5,Wired Headset,SONY,In the Ear,Black,64
+252,Mivi DuoPods M80 True Wireless Bluetooth Earbuds with Q...,"Black, True Wireless",4.0,1489,2999,5998,50,,Mivi,True Wireless,Black,2999
+253,ViVO EARPHONE SKS 301 Wired Headset,"White, In the Ear",4.0,13,193,965,80,Wired Headset,ViVO,In the Ear,White,772
+254,boAt Airdopes 412 Bluetooth Headset,"Black, True Wireless",3.9,3604,2999,7498,60,Bluetooth Headset,boAt,True Wireless,Black,4499
+255,Boult Audio ProBass Muse Bluetooth Headset,"Red, Black, In the Ear",3.7,2908,799,3474,77,Bluetooth Headset,Boult,In the Ear,Red Black,2675
+256,JBL T110 Pure Bass Wired Headset,"Blue, In the Ear",4.1,6144,749,1291,42,Wired Headset,JBL,In the Ear,Blue,542
+257,OPPO EXTRA BAZZ EARPHONE FOR ALL MOBILE Wired Headset W...,"Black, In the Ear",3.6,87,230,697,67,,OPPO,In the Ear,Black,467
+258,JBL T50HI Wired Headset,"Blue, In the Ear",4.1,8041,649,998,35,Wired Headset,JBL,In the Ear,Blue,349
+259,SONY C400 Bluetooth Headset,"Blue, In the Ear",4.0,12375,3499,3976,12,Bluetooth Headset,SONY,In the Ear,Blue,477
+260,Mivi TEDPM40-BK Bluetooth Headset,"Black, True Wireless",4.0,666,1999,3998,50,Bluetooth Headset,Mivi,True Wireless,Black,1999
+261,boAt Rockerz 315 SVA with Google Assistant Bluetooth He...,"Active Black, In the Ear",3.8,1621,1999,3447,42,,boAt,In the Ear,Active Black,1448
+262,boAt Rockerz 240 Bluetooth Headset,"Red, In the Ear",4.1,5461,1399,2454,43,Bluetooth Headset,boAt,In the Ear,Red,1055
+263,HRX X-Wave 11R with Flex Fold Design Technology Bluetoo...,"Venus Green, In the Ear",3.8,197,1199,2262,47,,HRX,In the Ear,Venus Green,1063
+264,ORAIMO Free Pods 2S TWS True Wireless Half In-Ear Earbu...,"White, True Wireless",4.2,126,1599,3263,51,,ORAIMO,True Wireless,White,1664
+265,OPPO COMBO EARPHONE (PACK OF 2) 3.5 MM WIRED HEADSET Wi...,"White, In the Ear",3.5,365,249,498,50,,OPPO,In the Ear,White,249
+266,boAt Rockerz 560 Bluetooth Headset,"Active Black, On the Ear",3.7,1991,1899,3956,52,Bluetooth Headset,boAt,On the Ear,Active Black,2057
+267,JBL T100TWS Bluetooth Headset,"Black, True Wireless",3.6,403,4099,7883,48,Bluetooth Headset,JBL,True Wireless,Black,3784
+268,Sony MDR-AS210 Open-Ear Active Sports Headphones,Black,4.1,17225,750,789,5,Sports Headphones,Sony,,,39
+269,Mivi BE5CL-GN Bluetooth Headset,"Green, In the Ear",3.8,9799,999,2938,66,Bluetooth Headset,Mivi,In the Ear,Green,1939
+270,JBL T450BT Extra Bass Bluetooth Headset,"White, On the Ear",4.2,66192,2499,3471,28,Bluetooth Headset,JBL,On the Ear,White,972
+271,ORAIMO Neckband Bluetooth Headphones with Mic Bluetooth...,"Black, In the Ear",3.9,660,1999,3447,42,,ORAIMO,In the Ear,Black,1448
+272,Mivi Duopods M40 Bluetooth Headset,"Carmine, True Wireless",4.0,666,1899,3956,52,Bluetooth Headset,Mivi,True Wireless,Carmine,2057
+273,ViVO Phone Wireless Bluetooth In-Ear Headphones Bluetoo...,"Black, In the Ear",3.5,77,325,591,45,,ViVO,In the Ear,Black,266
+274,JBL Tune 125BT Bluetooth Headset,"Grey, In the Ear",3.8,759,1699,2981,43,Bluetooth Headset,JBL,In the Ear,Grey,1282
+275,boAt Airdopes 201 Earbuds Bluetooth Headset,"Furious Blue, True Wireless",4.0,37611,1999,3998,50,Bluetooth Headset,boAt,True Wireless,Furious Blue,1999
+276,ViVO New stylist Bluetooth Headset,"Black, In the Ear",3.1,294,399,1174,66,Bluetooth Headset,ViVO,In the Ear,Black,775
+277,boAt Airdopes 381 Bluetooth Headset,"Active Black, True Wireless",3.7,13917,1999,4876,59,Bluetooth Headset,boAt,True Wireless,Active Black,2877
+278,boAt Airdopes 201 Earbuds Bluetooth Headset,"Raging Red, True Wireless",4.0,37611,1899,3956,52,Bluetooth Headset,boAt,True Wireless,Raging Red,2057
+279,boAt Airdopes 631 Bluetooth Headset,"Yellow, Blue, True Wireless",3.3,691,3999,6895,42,Bluetooth Headset,boAt,True Wireless,Yellow Blue,2896
+280,Portronics POR-1102 Harmonics Klip 4 Retractable Blueto...,"Black, In the Ear",4.0,84,1499,1999,25,,Portronics,In the Ear,Black,500
+281,HRX X-Streak 5Q Wired Headset,"Black, In the Ear",3.6,117,396,591,33,Wired Headset,HRX,In the Ear,Black,195
+282,PHILIPS TAT4205BK (TWS) with IPX5 Splash-Proof Design B...,"Black, True Wireless",3.9,40,3999,6895,42,,PHILIPS,True Wireless,Black,2896
+283,JBL Quantum 50 Wired Gaming Headset,"Purple, Red, In the Ear",4.0,138,1499,2498,40,Gaming Headset,JBL,In the Ear,Purple Red,999
+284,ViVO best selling top attitude earphonne with mic Wired...,"White, In the Ear",3.5,2232,189,822,77,,ViVO,In the Ear,White,633
+285,OPPO BEST SOUND EARPHONE WITH MIC Wired Headset,"Black, In the Ear",3.7,76,237,790,70,Wired Headset,OPPO,In the Ear,Black,553
+286,JBL T500 Bluetooth Headset,"Black, On the Ear",4.3,2653,2899,3765,23,Bluetooth Headset,JBL,On the Ear,Black,866
+287,JBL T100TWS Bluetooth Headset,"White, True Wireless",3.6,403,3999,7998,50,Bluetooth Headset,JBL,True Wireless,White,3999
+288,ViVO Rock Extra Bass in-Ear Sound Headphones with Mic 3...,"Black, In the Ear",3.7,236,243,736,67,,ViVO,In the Ear,Black,493
+289,JBL Endurance Run Wired Headset,"Blue, In the Ear",4.3,27456,1139,1519,25,Wired Headset,JBL,In the Ear,Blue,380
+290,JBL Original T50HI Black Wired Headset,"Black, In the Ear",3.8,10,699,999,30,Wired Headset,JBL,In the Ear,Black,300
+291,PHILIPS Upbeat TAN2215BK Bluetooth Headset,"Black, In the Ear",3.9,45,1890,3938,52,Bluetooth Headset,PHILIPS,In the Ear,Black,2048
+292,Mivi ThunderBeats Bluetooth Headset,"Red, In the Ear",3.9,27363,1234,2468,50,Bluetooth Headset,Mivi,In the Ear,Red,1234
+293,Skullcandy Sesh Evo Bluetooth Headset,"Chill Gray, True Wireless",4.0,80,4999,9998,50,Bluetooth Headset,Skullcandy,True Wireless,Chill Gray,4999
+294,Skullcandy S2JPW-M003 Bluetooth Headset,"Black, In the Ear",3.6,157,1633,2474,34,Bluetooth Headset,Skullcandy,In the Ear,Black,841
+295,OPPO Originol- Earphone-Headphone Wired Headset,"White, In the Ear",3.4,280,185,1423,87,Wired Headset,OPPO,In the Ear,White,1238
+296,ViVO universal earphone Wired Headset,"White, In the Ear",3.4,631,249,996,75,Wired Headset,ViVO,In the Ear,White,747
+297,JBL Quantum 200 Wired Gaming Headset,"Black, On the Ear",4.1,337,3799,5936,36,Gaming Headset,JBL,On the Ear,Black,2137
+298,SONY EX15AP Wired without Mic Headset,"Black, In the Ear",4.0,8065,875,884,1,Mic Headset,SONY,In the Ear,Black,9
+299,ORAIMO OEB-E59D Bluetooth Headset,"Black, In the Ear",4.2,53,1079,1686,36,Bluetooth Headset,ORAIMO,In the Ear,Black,607
+300,JBL Quantum 300 Wired Gaming Headset,"Black, On the Ear",3.8,91,4699,6910,32,Gaming Headset,JBL,On the Ear,Black,2211
+301,Boult Audio X1-WL Bluetooth Headset,"Red, In the Ear",4.0,718,899,2997,70,Bluetooth Headset,Boult,In the Ear,Red,2098
+302,Skullcandy Ink'd Headset with mic,"Blue & Black, In the Ear",4.0,172743,959,1682,43,with mic,Skullcandy,In the Ear, Black,723
+303,OPPO EARPHONE COMPATIBLE WITH ALL MODELS Wired Headset,"White, In the Ear",3.5,699,217,493,56,Wired Headset,OPPO,In the Ear,White,276
+304,JBL T50HI Wired Headset,"Black, In the Ear",4.1,8041,649,998,35,Wired Headset,JBL,In the Ear,Black,349
+305,SONY WI-XB400 Bluetooth Headset,"Black, In the Ear",4.1,568,3625,4966,27,Bluetooth Headset,SONY,In the Ear,Black,1341
+306,ViVO High Bass Earphones Noise Isolating 007 Wired Head...,"White, In the Ear",3.4,844,217,493,56,,ViVO,In the Ear,White,276
+307,Boult Audio Airbass Truebuds Bluetooth Headset,"Grey, True Wireless",3.9,7356,1999,7996,75,Bluetooth Headset,Boult,True Wireless,Grey,5997
+308,Skullcandy Spoke Bluetooth Headset,"Black, True Wireless",3.7,159,2390,7967,70,Bluetooth Headset,Skullcandy,True Wireless,Black,5577
+309,SONY EX255AP Wired Headset,"Blue, In the Ear",4.2,2695,1699,1976,14,Wired Headset,SONY,In the Ear,Blue,277
+310,OPPO Enco W51 with Active Noise Cancellation Bluetooth ...,"Floral White, True Wireless",4.1,1249,4999,6943,28,,OPPO,True Wireless,Floral White,1944
+311,PHILIPS SHE1405BK/94 Wired Headset,"Black, In the Ear",3.9,29362,399,443,10,Wired Headset,PHILIPS,In the Ear,Black,44
+312,Mivi DuoPods M80 True Wireless Bluetooth Headset with a...,"White, True Wireless",4.0,1489,2999,5998,50,,Mivi,True Wireless,White,2999
+313,ViVO Bass Headset with good sound cliarity Wired Headse...,"Black, In the Ear",3.5,299,235,758,69,,ViVO,In the Ear,Black,523
+314,Portronics POR-1050 Harmonics Twins II True Wireless Bl...,"Black, True Wireless",3.6,16,1749,3975,56,,Portronics,True Wireless,Black,2226
+315,ViVO original xe680 white wired Wired Headset,"White, In the Ear",3.3,127,217,835,74,Wired Headset,ViVO,In the Ear,White,618
+316,Portronics POR-325 Harmonics Twins Mini Bluetooth Heads...,"Black, True Wireless",4.1,3642,1699,3467,51,,Portronics,True Wireless,Black,1768
+317,boAt Rockerz 450 Pro Bluetooth Headset,"Hazel Beige, On the Ear",4.2,1116,1999,3920,49,Bluetooth Headset,boAt,On the Ear,Hazel Beige,1921
+318,boAt 100 Wireless Bluetooth Headset,"Maroon, In the Ear",4.1,14443,1499,2998,50,Bluetooth Headset,boAt,In the Ear,Maroon,1499
+319,JBL Tune 125BT Bluetooth Headset,"Red, In the Ear",3.8,759,1699,2981,43,Bluetooth Headset,JBL,In the Ear,Red,1282
+320,Skullcandy S2DUY-L102 JIB Wired Headset,"GREEN BLACK, In the Ear",4.3,3,799,999,20,Wired Headset,Skullcandy,In the Ear,GREEN BLACK,200
+321,OPPO With Deep Bass Original Wired Headphone Wired Head...,"White, In the Ear",3.6,616,195,975,80,,OPPO,In the Ear,White,780
+322,Boult Audio Air Bass Power Buds Bluetooth Headset,"Blue, Black, True Wireless",3.9,1038,2199,8796,75,Bluetooth Headset,Boult,True Wireless,Blue Black,6597
+323,SONY C400 Bluetooth Headset,"Red, In the Ear",4.0,12375,3499,3976,12,Bluetooth Headset,SONY,In the Ear,Red,477
+324,Skullcandy Uproar Bluetooth Headset with Mic,"Blue, On the Ear",4.3,17122,2825,5433,48,with Mic,Skullcandy,On the Ear,Blue,2608
+325,SONY XB450AP Wired Headset,"Red, On the Ear",4.3,9485,2099,2469,15,Wired Headset,SONY,On the Ear,Red,370
+326,OPPO Stylist Bluetooth Headset,"Black, In the Ear",3.3,22,389,997,61,Bluetooth Headset,OPPO,In the Ear,Black,608
+327,Skullcandy Jib Headset with mic,"White, In the Ear",4.0,59305,780,987,21,with mic,Skullcandy,In the Ear,White,207
+328,Skullcandy Ink'd Plus Wired Headset,"Blue, In the Ear",3.6,60,999,1491,33,Wired Headset,Skullcandy,In the Ear,Blue,492
+329,OPPO Earphone with Powerful Super Bass Wired Headset Wi...,"Black, In the Ear",3.8,40,247,494,50,,OPPO,In the Ear,Black,247
+330,Skullcandy S2DUL-J319 Wired Headset,"Hot Lime/Grey, In the Ear",4.0,91234,679,1095,38,Wired Headset,Skullcandy,In the Ear,Grey,416
+331,ViVO New Arrival Mini Bluetooth headphone Bluetooth Hea...,"Black, True Wireless",3.8,10,369,997,63,,ViVO,True Wireless,Black,628
+332,ORAIMO OEB-E75D Bluetooth Headset,"Black, In the Ear",3.8,10,1699,2981,43,Bluetooth Headset,ORAIMO,In the Ear,Black,1282
+333,JBL T110BT Bluetooth Headset,"Blue, In the Ear",3.9,28088,1789,2485,28,Bluetooth Headset,JBL,In the Ear,Blue,696
+334,Boult Audio BassBuds X2 Wired Headset,"Black, In the Ear",3.6,1039,299,1196,75,Wired Headset,Boult,In the Ear,Black,897
+335,Skullcandy Uproar Bluetooth Headset with Mic,"Grey Black, On the Ear",4.3,17122,2825,5433,48,with Mic,Skullcandy,On the Ear,Grey Black,2608
+336,ViVO Best Bass bluetooth Bluetooth Headset,"bluetooth, In the Ear",3.1,152,395,1197,67,Bluetooth Headset,ViVO,In the Ear,bluetooth,802
+337,Mivi Rock and Roll W1 Wired Earphones with HD Sound and...,"Red, In the Ear",3.1,916,399,798,50,,Mivi,In the Ear,Red,399
+338,HRX X-Wave 11R with Flex Fold Design Technology Bluetoo...,"Asteroid Red, In the Ear",3.8,197,1199,2262,47,,HRX,In the Ear,Asteroid Red,1063
+339,boAt Airdopes 201 Earbuds Bluetooth Headset,"Viper Green, True Wireless",4.0,37611,1999,3998,50,Bluetooth Headset,boAt,True Wireless,Viper Green,1999
+340,ORAIMO SHARK 2 (59D) WIRELESS HEADPHONE Bluetooth Heads...,"Black, In the Ear",3.6,47,1183,1690,30,,ORAIMO,In the Ear,Black,507
+341,SONY MDR-XB450AP_Red Wired Headset,"Red, On the Ear",4.5,126,2355,2479,5,Wired Headset,SONY,On the Ear,Red,124
+342,ViVO EARPHONE Y20' NOTE9 S1 Wired Headset,"White, In the Ear",3.3,68,217,658,67,Wired Headset,ViVO,In the Ear,White,441
+343,Skullcandy Ink'd Bluetooth Headset with Mic,"Red/Black, In the Ear",4.1,46558,2999,3999,25,with Mic,Skullcandy,In the Ear,Black,1000
+344,ViVO STYLIST BLACK GOLDEN EARPHONE FOR EVERYONE Wired w...,"Black, In the Ear",3.0,10,499,1085,54,,ViVO,In the Ear,Black,586
+345,JBL Tune 700BT Bluetooth Headset,"Blue, On the Ear",4.0,214,4499,4999,10,Bluetooth Headset,JBL,On the Ear,Blue,500
+346,OPPO 2 Wired Headset Wired Headset,"Black, In the Ear",3.0,69,240,686,65,Wired Headset,OPPO,In the Ear,Black,446
+347,Skullcandy S2DUL-J335 Wired Headset,"Red/Black, In the Ear",4.0,91234,679,1095,38,Wired Headset,Skullcandy,In the Ear,Black,416
+348,REDMI Original High Bass Sound stereo00 Headphone Wired...,"White, In the Ear",3.5,28,249,498,50,,REDMI,In the Ear,White,249
+349,JBL T205 Wired Headset,"Black, In the Ear",3.9,16747,999,1586,37,Wired Headset,JBL,In the Ear,Black,587
+350,OPPO OpoCearphone Wired Headset,"White, In the Ear",3.4,142,217,395,45,Wired Headset,OPPO,In the Ear,White,178
+351,JBL Tune 700BT Bluetooth Headset,"Black, On the Ear",4.0,214,4499,4999,10,Bluetooth Headset,JBL,On the Ear,Black,500
+352,OPPO R9 WIRED HEADSET PACK OF 2 Wired Headset,"White, In the Ear",3.5,238,249,593,58,Wired Headset,OPPO,In the Ear,White,344
+353,ViVO Stylist Earphone with mic (white) Wired Headset,"White, In the Ear",3.4,2001,199,995,80,Wired Headset,ViVO,In the Ear,White,796
+354,OPPO Ear Wired Earphones with Mic(white) Wired Headset,"White, In the Ear",3.4,138,217,395,45,Wired Headset,OPPO,In the Ear,White,178
+355,SONY EX15AP Wired Headset,"Voilet, In the Ear",4.0,8065,885,1770,50,Wired Headset,SONY,In the Ear,Voilet,885
+356,OPPO ORIGINAL 3.5MM COMBO PACK EARPHONE Wired Headset,"White, In the Ear",3.5,740,249,922,73,Wired Headset,OPPO,In the Ear,White,673
+357,SONY C400 Bluetooth Headset,"White, In the Ear",4.0,12375,3499,3976,12,Bluetooth Headset,SONY,In the Ear,White,477
+358,JBL T210 Wired without Mic Headset,"ROSE GOLD, In the Ear",4.1,11007,938,1187,21,Mic Headset,JBL,In the Ear,ROSE GOLD,249
+359,JBL Endurance Run Wired Headset,"Red, In the Ear",4.3,27456,1049,1589,34,Wired Headset,JBL,In the Ear,Red,540
+360,JBL Tune 110 Wired Headset,"Red, In the Ear",4.0,34170,727,1275,43,Wired Headset,JBL,In the Ear,Red,548
+361,ViVO Combo of earph+pouch Wired Headset,"White, In the Ear",3.3,72,379,1458,74,Wired Headset,ViVO,In the Ear,White,1079
+362,JBL Live 25BT Bluetooth Headset,"White, In the Ear",3.7,131,1949,4997,61,Bluetooth Headset,JBL,In the Ear,White,3048
+363,JBL JBLT500BTWHT Bluetooth Headset,"White, On the Ear",4.3,2654,3299,3792,13,Bluetooth Headset,JBL,On the Ear,White,493
+364,PHILIPS SHE4305 Wired Headset,"Red, In the Ear",4.1,77,698,1293,46,Wired Headset,PHILIPS,In the Ear,Red,595
+365,Portronics Harmonics X Bluetooth Headset,"Grey, In the Ear",4.1,232,1199,1998,40,Bluetooth Headset,Portronics,In the Ear,Grey,799
+366,REDMI Original High Bass Sound sterecyfyco Headphone 02...,"White, In the Ear",3.4,11,249,498,50,,REDMI,In the Ear,White,249
+367,OPPO EARPHONE-003 MODEL WIRED HEADSET WITH MIC Wired He...,"White, In the Ear",3.5,336,249,958,74,,OPPO,In the Ear,White,709
+368,ORAIMO E21 Wired Headset,"Black, In the Ear",3.8,21,275,348,21,Wired Headset,ORAIMO,In the Ear,Black,73
+369,Skullcandy Jib Plus Wireless Bluetooth Headset,"Electric Yellow, In the Ear",3.4,236,1699,2499,32,Bluetooth Headset,Skullcandy,In the Ear,Electric Yellow,800
+370,OPPO EARPHONE WIRED HEADSET Wired Headset Wired Headset,"White, In the Ear",3.3,97,158,395,60,Wired Headset,OPPO,In the Ear,White,237
+371,Boult Audio Loop Wired Headset,"Blue, Black, In the Ear",4.1,77272,349,1163,70,Wired Headset,Boult,In the Ear,Blue Black,814
+372,Skullcandy Jib Headset with mic,"White, In the Ear",4.0,59306,786,995,21,with mic,Skullcandy,In the Ear,White,209
+373,boAt Rockerz 275v2 Bluetooth Headset,"Black, In the Ear",3.7,1739,1804,2957,39,Bluetooth Headset,boAt,In the Ear,Black,1153
+374,JBL E25BT Bluetooth Headset,"Black, In the Ear",3.9,5439,2399,3477,31,Bluetooth Headset,JBL,In the Ear,Black,1078
+375,ViVO Ear Universal Headphone wIth Mic Wired Headset,"White, In the Ear",3.5,116,170,944,82,Wired Headset,ViVO,In the Ear,White,774
+376,SONY WI-C310 Bluetooth Headset,"Gold, In the Ear",4.1,7964,2799,2978,6,Bluetooth Headset,SONY,In the Ear,Gold,179
+377,REDMI Basic Wired Headset with Mic 01SDFDFGGDFTDYFGTDJ ...,"Blue, In the Ear",2.7,56,299,598,50,,REDMI,In the Ear,Blue,299
+378,ViVO NEW STYLIST BLACK LOVE Wired Headset,"Black, In the Ear",3.8,48,245,1167,79,Wired Headset,ViVO,In the Ear,Black,922
+379,JBL JBLLIVE200BTRED Bluetooth Headset,"Red, In the Ear",3.7,4603,3549,5297,33,Bluetooth Headset,JBL,In the Ear,Red,1748
+380,ViVO EARPONE COMPATIBLE WITH ALL MODELS Wired Headset ....,"White, In the Ear",3.4,30,249,579,57,,ViVO,In the Ear,White,330
+381,boAt Airdopes 501 Bluetooth Headset,"Spirit Lime, True Wireless",3.8,2012,2999,4998,40,Bluetooth Headset,boAt,True Wireless,Spirit Lime,1999
+382,ORAIMO OEB-E99D Bluetooth Headset,"Black, True Wireless",3.7,387,4599,9198,50,Bluetooth Headset,ORAIMO,True Wireless,Black,4599
+383,PHILIPS SHE4305WT/00 Wired Headset,"White, In the Ear",3.9,4135,649,1298,50,Wired Headset,PHILIPS,In the Ear,White,649
+384,SONY XB450 Wired without Mic Headset,"Black, On the Ear",4.3,27503,1990,2187,9,Mic Headset,SONY,On the Ear,Black,197
+385,SONY XB75 Wired Headset,"Black, In the Ear",4.2,1279,3990,7980,50,Wired Headset,SONY,In the Ear,Black,3990
+386,Portronics POR-1146 Conch Delta Wired Headset,"White, In the Ear",3.7,277,233,395,41,Wired Headset,Portronics,In the Ear,White,162
+387,JBL LIVE200BT Wireless In-Ear Neckband Bluetooth Headse...,"Green, In the Ear",3.7,4603,3699,5284,30,,JBL,In the Ear,Green,1585
+388,JBL T50HI Wired Headset,"Red, In the Ear",4.1,8042,649,998,35,Wired Headset,JBL,In the Ear,Red,349
+389,OPPO Earph-013 Wired Headset,"White, In the Ear",3.4,286,217,493,56,Wired Headset,OPPO,In the Ear,White,276
+390,SONY ZX110 Wired without Mic Headset,"Black, On the Ear",4.1,6805,949,1091,13,Mic Headset,SONY,On the Ear,Black,142
+391,SONY XB55AP Wired Headset,"Grayish White, In the Ear",4.4,18488,2425,2474,2,Wired Headset,SONY,In the Ear,Grayish White,49
+392,JBL Endurance Jump Bluetooth Headset,"Teal, In the Ear",3.8,937,3579,4772,25,Bluetooth Headset,JBL,In the Ear,Teal,1193
+393,ViVO best stylist earphone with mic Wired Headset,"White, In the Ear",3.2,44,228,991,77,Wired Headset,ViVO,In the Ear,White,763
+394,Skullcandy Smokin' Buds 2 Bluetooth Headset with Mic,"White, Chrome, In the Ear",4.0,3572,3049,5257,42,with Mic,Skullcandy,In the Ear,White Chrome,2208
+395,PHILIPS SHK2000BL/00 Bluetooth without Mic Headset,"Blue & Green, On the Ear",4.0,45,1170,1286,9,Mic Headset,PHILIPS,On the Ear, Green,116
+396,JBL T165BT Bluetooth Headset,"Pink, In the Ear",3.8,3027,1869,2670,30,Bluetooth Headset,JBL,In the Ear,Pink,801
+397,HRX X-Drops 6G with 15 Hours Playback Bluetooth Headset,"Space Black, True Wireless",3.8,58,1999,3388,41,Bluetooth Headset,HRX,True Wireless,Space Black,1389
+398,ViVO Fashion Hands-Free Stereo Earphones Wired Headset,"White, In the Ear",3.5,182,217,493,56,Wired Headset,ViVO,In the Ear,White,276
+399,Skullcandy Anti Headphone,"Blue, On the Ear",4.2,79392,899,1998,55,Anti Headphone,Skullcandy,On the Ear,Blue,1099
+400,PHILIPS SHB1805BK Bluetooth Headset,"Black, In the Ear",3.5,846,1499,2498,40,Bluetooth Headset,PHILIPS,In the Ear,Black,999
+401,ORAIMO Universal earphone with miv and deep bass Wired ...,"Black, In the Ear",3.6,9,349,447,22,,ORAIMO,In the Ear,Black,98
+402,REDMI Basic Wired Headset with Mic 01 Wired Headset,"Black, In the Ear",3.8,10,399,596,33,Wired Headset,REDMI,In the Ear,Black,197
+403,ORAIMO Sweat-Proof Headphones with Mic Bluetooth Headse...,"Black, In the Ear",3.7,127,1299,2952,56,,ORAIMO,In the Ear,Black,1653
+404,Skullcandy Jib Plus Active Sport Wireless Bluetooth Hea...,"Black, In the Ear",3.8,54,2049,3940,48,,Skullcandy,In the Ear,Black,1891
+405,JBL T165BT Bluetooth Headset,"Black, In the Ear",3.8,3027,1829,2690,32,Bluetooth Headset,JBL,In the Ear,Black,861
+406,Skullcandy Anti Headphone,"Charcoal Black, On the Ear",4.2,79392,899,1998,55,Anti Headphone,Skullcandy,On the Ear,Charcoal Black,1099
+407,SONY XB550AP / MDR-XB550AP Wired Headset,"Blue, On the Ear",4.1,35,3290,6580,50,Wired Headset,SONY,On the Ear,Blue,3290
+408,JBL T165BT Bluetooth Headset,"Grey, In the Ear",3.8,3027,1849,2680,31,Bluetooth Headset,JBL,In the Ear,Grey,831
+409,ViVO Combo of 2 earph 012 Wired Headset Wired Headset,"White, In the Ear",3.2,22,249,498,50,Wired Headset,ViVO,In the Ear,White,249
+410,ORAIMO OEP-E37 Wired Headset,"Black, In the Ear",3.8,10,330,347,5,Wired Headset,ORAIMO,In the Ear,Black,17
+411,ViVO B8752 Wired Headset,"White, In the Ear",3.3,101,210,1750,88,Wired Headset,ViVO,In the Ear,White,1540
+412,JBL Tune 115BT Bluetooth Headset,"Black, In the Ear",3.8,1944,1999,2499,20,Bluetooth Headset,JBL,In the Ear,Black,500
+413,Skullcandy Jib Wired Headphone,"Grey & Hot Lime, In the Ear",3.8,21421,549,796,31,Wired Headphone,Skullcandy,In the Ear, Hot Lime,247
+414,PHILIPS SHB4305BK Bluetooth Headset,"Black, In the Ear",3.0,99,1325,3487,62,Bluetooth Headset,PHILIPS,In the Ear,Black,2162
+415,JBL T165BT Bluetooth Headset,"Green, In the Ear",3.8,3027,1849,2680,31,Bluetooth Headset,JBL,In the Ear,Green,831
+416,ViVO Black Golden stylist earphone with mic Wired Heads...,"Black, In the Ear",3.4,46,399,887,55,,ViVO,In the Ear,Black,488
+417,Portronics Harmonics One Sports Bluetooth Headset,"Green, In the Ear",3.8,187,1049,1979,47,Bluetooth Headset,Portronics,In the Ear,Green,930
+418,Skullcandy Jib Wired Headphone,"White, Black, In the Ear",3.8,21421,549,796,31,Wired Headphone,Skullcandy,In the Ear,White Black,247
+419,JBL Live 25BT Bluetooth Headset,"Blue, In the Ear",3.7,131,1999,4998,60,Bluetooth Headset,JBL,In the Ear,Blue,2999
+420,JBL Tune 115BT Bluetooth Headset,"White, In the Ear",3.8,1944,1899,2499,24,Bluetooth Headset,JBL,In the Ear,White,600
+421,SONY ZX110AP Wired Headset,"Black, On the Ear",4.1,1163,1199,1378,13,Wired Headset,SONY,On the Ear,Black,179
+422,OPPO Rock Extra Bass in-Ear Sound Headphones with Mic 3...,"Black, In the Ear",3.2,60,247,772,68,,OPPO,In the Ear,Black,525
+423,SONY EX155AP Wired Headset,"Black, In the Ear",3.9,52,1225,1289,5,Wired Headset,SONY,In the Ear,Black,64
+424,JBL LIVE200BT Wireless In-Ear Neckband Bluetooth Headse...,"White, In the Ear",3.7,4603,3399,5229,35,,JBL,In the Ear,White,1830
+425,Portronics POR-1155 Conch Delta Wired Headset,"Black, In the Ear",3.7,277,259,398,35,Wired Headset,Portronics,In the Ear,Black,139
+426,ViVO y51L Wired Headset,"White, In the Ear",3.4,221,249,692,64,Wired Headset,ViVO,In the Ear,White,443
+427,SONY XB510 Wired Headset,"Blue, In the Ear",4.2,2071,2875,2964,3,Wired Headset,SONY,In the Ear,Blue,89
+428,Skullcandy Sesh Evo Bluetooth Headset,"Black, True Wireless",4.0,80,4897,7898,38,Bluetooth Headset,Skullcandy,True Wireless,Black,3001
+429,OPPO Earph-004 Wired Headset,"White, In the Ear",3.4,130,164,965,83,Wired Headset,OPPO,In the Ear,White,801
+430,OPPO POGn Wired Headset,"White, In the Ear",3.8,5,199,585,66,Wired Headset,OPPO,In the Ear,White,386
+431,PHILIPS SHB2505BK True Wireless(TWS) with Voice Assista...,"Black, True Wireless",4.1,59,4999,7935,37,,PHILIPS,True Wireless,Black,2936
+432,ViVO BEST EARPIS FOR RED PIS LOVER Bluetooth Headset,"Red, In the Ear",3.1,253,377,1178,68,Bluetooth Headset,ViVO,In the Ear,Red,801
+433,OPPO ROCCK EXTRA BAZZ EARPHONE FOR ALL MOBILE Wired Hea...,"Black, In the Ear",3.4,453,237,790,70,,OPPO,In the Ear,Black,553
+434,ViVO Orginal Earphone OEM With mic Wired Headset,"White, In the Ear",3.5,21,217,493,56,Wired Headset,ViVO,In the Ear,White,276
+435,JBL Live 100BT Bluetooth Headset,"Black, In the Ear",3.6,69,1999,2984,33,Bluetooth Headset,JBL,In the Ear,Black,985
+436,JBL T110BT Bluetooth Headset,"Black, In the Ear",3.9,28088,1774,2499,29,Bluetooth Headset,JBL,In the Ear,Black,725
+437,Skullcandy Jib Headset with mic,"Purple, In the Ear",4.0,59305,791,989,20,with mic,Skullcandy,In the Ear,Purple,198
+438,OPPO Handsfree_InEar Wired Headset,"White, In the Ear",3.3,21,189,461,59,Wired Headset,OPPO,In the Ear,White,272
+439,ORAIMO Oriamo earphone e-21 Wired Headset,"White, In the Ear",3.5,146,256,298,14,Wired Headset,ORAIMO,In the Ear,White,42
+440,OPPO HD_InEar Wired Headset,"White, In the Ear",3.4,38,165,660,75,Wired Headset,OPPO,In the Ear,White,495
+441,ViVO High Bass Earphones Noise Isolating 03 Wired Heads...,"White, In the Ear",3.9,44,217,986,78,,ViVO,In the Ear,White,769
+442,SONY MDR-ZX110-AP Wired Headset,"White, On the Ear",4.0,137,1390,1782,22,Wired Headset,SONY,On the Ear,White,392
+443,JBL Tune 110 Wired Headset,"White, In the Ear",4.0,34170,749,1269,41,Wired Headset,JBL,In the Ear,White,520
+444,Skullcandy Jib Headset with mic,"Blue, In the Ear",4.0,59305,799,999,20,with mic,Skullcandy,In the Ear,Blue,200
+445,PHILIPS SHB1805 BK Bluetooth Headset,"Black, In the Ear",3.8,10,1499,2498,40,Bluetooth Headset,PHILIPS,In the Ear,Black,999
+446,SONY mdr155apblack Wired Headset,"Black, In the Ear",4.1,70,1265,1278,1,Wired Headset,SONY,In the Ear,Black,13
+447,OPPO ORIGINAL MH135 white wired Wired Headset,"White, In the Ear",3.7,100,217,395,45,Wired Headset,OPPO,In the Ear,White,178
+448,OPPO MH-133 EARPHONE WITH MIC Wired Headset,"White, In the Ear",3.6,79,249,593,58,Wired Headset,OPPO,In the Ear,White,344
+449,PHILIPS SHE1505 Pack of 2 Wired Headset,"Black, In the Ear",4.1,400,679,799,15,Wired Headset,PHILIPS,In the Ear,Black,120
+450,JBL Endurance Jump Bluetooth Headset,"Red, In the Ear",3.8,937,3549,4796,26,Bluetooth Headset,JBL,In the Ear,Red,1247
+451,PHILIPS SHE1405WT/94 Wired Headset,"White, In the Ear",3.8,11666,399,798,50,Wired Headset,PHILIPS,In the Ear,White,399
+452,Skullcandy Sesh S2TDW-M003 True Wireless Bluetooth Head...,"Black, True Wireless",3.6,1425,3399,5963,43,,Skullcandy,True Wireless,Black,2564
+453,JBL T205 Wired Headset,"Silver, In the Ear",3.9,16747,999,1586,37,Wired Headset,JBL,In the Ear,Silver,587
+454,ViVO 1 Wired Headset,"Black, In the Ear",3.7,36,239,498,52,Wired Headset,ViVO,In the Ear,Black,259
+455,JBL Live 220BT Bluetooth Headset,"White, In the Ear",3.1,202,3989,5249,24,Bluetooth Headset,JBL,In the Ear,White,1260
+456,Skullcandy S2JPW-M101 Bluetooth Headset,"Blue, In the Ear",3.4,236,1645,2492,34,Bluetooth Headset,Skullcandy,In the Ear,Blue,847
+457,PHILIPS PRO6305BK Wired Headset,"Black, In the Ear",4.3,68,1599,2498,36,Wired Headset,PHILIPS,In the Ear,Black,899
+458,ViVO NEW STYLIST BLACK GOLDEN EARPHONE FOR EVERYONE Wir...,"Gold, Black, In the Ear",3.6,87,399,798,50,,ViVO,In the Ear,Gold Black,399
+459,SONY EX15LP Wired without Mic Headset,"Black, In the Ear",3.8,5434,689,1378,50,Mic Headset,SONY,In the Ear,Black,689
+460,"OPPO D8752 Wired, Wired Headset","White, In the Ear",3.8,62,217,986,78,Wired Headset,OPPO,In the Ear,White,769
+461,ViVO smartBuy rock Bass Headset with Wired Headset,"Black, In the Ear",3.6,135,243,784,69,Wired Headset,ViVO,In the Ear,Black,541
+462,REDMI High Definition Bass Stereo Sound HGFGGV Wired He...,"White, In the Ear",3.8,10,249,732,66,,REDMI,In the Ear,White,483
+463,PHILIPS TAUN102BK Bluetooth Headset,"Black, Silver, In the Ear",3.7,81,1795,3452,48,Bluetooth Headset,PHILIPS,In the Ear,Black Silver,1657
+464,ORAIMO E-21 Wired Headset,"White, In the Ear",3.7,45,285,288,1,Wired Headset,ORAIMO,In the Ear,White,3
+465,ORAIMO ORAMO_E94D_FREEPODS_TWS Bluetooth Headset,"White, True Wireless",3.0,10,2199,3282,33,Bluetooth Headset,ORAIMO,True Wireless,White,1083
+466,ViVO Sportclub Bluetooth Headset,"Black, In the Ear",3.3,48,399,1174,66,Bluetooth Headset,ViVO,In the Ear,Black,775
+467,SONY XB510AS Wired Headset,"Blue, In the Ear",3.6,16,2990,5980,50,Wired Headset,SONY,In the Ear,Blue,2990
+468,Skullcandy Ink'd Headset with mic,"White, In the Ear",4.0,172743,959,1682,43,with mic,Skullcandy,In the Ear,White,723
+469,REDMI Basic Wired Headset with Mic 01XDDJ Wired Headset,"Black, In the Ear",3.7,3,399,596,33,Wired Headset,REDMI,In the Ear,Black,197
+470,Portronics POR-325 Bluetooth Headset,"Black, In the Ear",3.8,9,1799,3460,48,Bluetooth Headset,Portronics,In the Ear,Black,1661
+471,ViVO V Earph-103 Wired Headset,"White, In the Ear",3.6,118,239,498,52,Wired Headset,ViVO,In the Ear,White,259
+472,Portronics POR-1160 Conch Gama Wired Headset,"Black-Yellow, In the Ear",4.0,2592,499,594,16,Wired Headset,Portronics,In the Ear,Yellow,95
+473,OPPO COMBO EARPHONE (PACK OF 2) 3.5MM WIRED HEADSET Wir...,"White, In the Ear",3.3,399,242,1512,84,,OPPO,In the Ear,White,1270
+474,Skullcandy S2DUL-J846 Wired Headset,"Blue/Black, In the Ear",4.0,91234,679,1095,38,Wired Headset,Skullcandy,In the Ear,Black,416
+475,ViVO ROCK EARPHONE high BASS Wired Headset,"White, In the Ear",3.5,22,240,774,69,Wired Headset,ViVO,In the Ear,White,534
+476,Skullcandy Sesh Evo Bluetooth Headset,"Red, True Wireless",4.0,80,4849,7949,39,Bluetooth Headset,Skullcandy,True Wireless,Red,3100
+477,PHILIPS 100% Original SHE3555RD Wired Headset,"Red, In the Ear",4.0,15,549,597,8,Wired Headset,PHILIPS,In the Ear,Red,48
+478,PHILIPS SHE2305WT/00 Wired Headset,"White, In the Ear",3.9,2555,849,1698,50,Wired Headset,PHILIPS,In the Ear,White,849
+479,ViVO Earphone with Mic & Remote Control Volume Button W...,"White, In the Ear",3.4,62,217,986,78,,ViVO,In the Ear,White,769
+480,REDMI High Definition Bass Stereo 0454 Wired Headset,"White, In the Ear",3.8,10,249,732,66,Wired Headset,REDMI,In the Ear,White,483
+481,JBL Endurance Jump Bluetooth Headset,"Blue, In the Ear",3.8,937,3999,5062,21,Bluetooth Headset,JBL,In the Ear,Blue,1063
+482,JBL Tune 125BT Bluetooth Headset,"White, In the Ear",3.8,759,1699,2981,43,Bluetooth Headset,JBL,In the Ear,White,1282
+483,SONY EX15AP Wired without Mic Headset,"White, In the Ear",4.0,8065,875,884,1,Mic Headset,SONY,In the Ear,White,9
+484,ORAIMO E74D Bluetooth Headset,"Black, In the Ear",4.1,8,1999,3447,42,Bluetooth Headset,ORAIMO,In the Ear,Black,1448
+485,OPPO Stereo_InEar Wired Headset,"White, In the Ear",3.4,162,178,396,55,Wired Headset,OPPO,In the Ear,White,218
+486,REDMI High Definition Bass Stereo Sound HHFGFGV Wired H...,"White, In the Ear",3.4,21,249,732,66,,REDMI,In the Ear,White,483
+487,JBL T165BT Bluetooth Headset,"White, In the Ear",3.8,3027,1789,2670,33,Bluetooth Headset,JBL,In the Ear,White,881
+488,ViVO MIXX5576 Wired Headset,"White, In the Ear",3.2,59,201,957,79,Wired Headset,ViVO,In the Ear,White,756
+489,Portronics Harmonics X Bluetooth Headset,"Black, In the Ear",4.1,232,1329,1984,33,Bluetooth Headset,Portronics,In the Ear,Black,655
+490,JBL JBLT210GRY Wired Headset,"Grey, In the Ear",4.1,11007,968,1195,19,Wired Headset,JBL,In the Ear,Grey,227
+491,Portronics POR-1156 Harmonics 224 Bluetooth Headset,"Black, In the Ear",3.7,229,789,1489,47,Bluetooth Headset,Portronics,In the Ear,Black,700
+492,JBL T500 Bluetooth Headset,"Blue, On the Ear",4.3,2653,2899,3765,23,Bluetooth Headset,JBL,On the Ear,Blue,866
+493,Skullcandy Sesh S2TDW-M704 Bluetooth Headset,"Blue, True Wireless",3.6,1425,3299,5998,45,Bluetooth Headset,Skullcandy,True Wireless,Blue,2699
+494,Skullcandy S2JPW-M010 Bluetooth Headset,"Red, In the Ear",3.4,236,1590,2484,36,Bluetooth Headset,Skullcandy,In the Ear,Red,894
+495,OPPO Earph-003 Wired Headset,"White, In the Ear",3.6,93,166,976,83,Wired Headset,OPPO,In the Ear,White,810
+496,Skullcandy Stim Headset with mic,"Burgundy Red, On the Ear",4.2,465,1599,1999,20,with mic,Skullcandy,On the Ear,Burgundy Red,400
+497,Skullcandy Riff BT Bluetooth Headset,"Blue, Speckle, Sunset, On the Ear",4.1,137,4289,4987,14,Bluetooth Headset,Skullcandy,On the Ear,Blue Speckle Sunset,698
+498,HRX X-Wave 14R with Bass Boost Mode Bluetooth Headset,"Space Gold, In the Ear",3.7,777,1599,2961,46,Bluetooth Headset,HRX,In the Ear,Space Gold,1362
+499,ORAIMO Necklace 2 OEB-E74D Bluetooth Headset,"Black, In the Ear",2.2,14,3299,3473,5,Bluetooth Headset,ORAIMO,In the Ear,Black,174
+500,Skullcandy Cassette Wireless Bluetooth without Mic Head...,"Purple, On the Ear",3.8,10,3099,3973,22,,Skullcandy,On the Ear,Purple,874
+501,OPPO MH-124 MODEL WOOFER HEADPHONES Wired Headset,"White, In the Ear",3.4,149,249,996,75,Wired Headset,OPPO,In the Ear,White,747
+502,PHILIPS TAUH202BK/00 Bluetooth Headset,"Black, On the Ear",4.0,4,2429,3282,26,Bluetooth Headset,PHILIPS,On the Ear,Black,853
+503,Skullcandy JibTrue Wireless Bluetooth Headset,"Black, True Wireless",2.8,4,2999,8821,66,Bluetooth Headset,Skullcandy,True Wireless,Black,5822
+504,OPPO EARPHONE COMPATIBLE WITH ALL MODELS Wired Headset,"White, In the Ear",3.6,346,195,975,80,Wired Headset,OPPO,In the Ear,White,780
+505,Skullcandy Anti Headphone,"White Gray, On the Ear",4.2,79392,899,1998,55,Anti Headphone,Skullcandy,On the Ear,White Gray,1099
+506,JBL T205 Wired Headset,"Rose Gold, In the Ear",3.9,16747,990,1597,38,Wired Headset,JBL,In the Ear,Rose Gold,607
+507,ORAIMO OEB-H85D Bluetooth without Mic Headset,"Black, On the Ear",4.0,4,2499,3471,28,Mic Headset,ORAIMO,On the Ear,Black,972
+508,SONY MDR-ZX110APW Wired Headset,"White, On the Ear",3.9,60,1385,1489,7,Wired Headset,SONY,On the Ear,White,104
+509,ViVO 21 Wired Headset,"White, In the Ear",3.4,310,249,778,68,Wired Headset,ViVO,In the Ear,White,529
+510,OPPO MH-133 MODEL EARPHONE WITH MIC Wired Headset,"White, In the Ear",3.4,146,217,943,77,Wired Headset,OPPO,In the Ear,White,726
+511,JBL T210 Wired Headset,"Silver, In the Ear",4.0,1106,999,1189,16,Wired Headset,JBL,In the Ear,Silver,190
+512,ViVO V Earph-102 Wired Headset,"White, In the Ear",3.4,184,199,905,78,Wired Headset,ViVO,In the Ear,White,706
+513,Sony MDR-EX15AP In-the-ear Headset,"Black, In the Ear",3.9,2778,878,887,1,ear Headset,Sony,In the Ear,Black,9
+514,Skullcandy Ink'd Plus Wireless Bluetooth Headset,"Blue, In the Ear",3.6,99,2999,3999,25,Bluetooth Headset,Skullcandy,In the Ear,Blue,1000
+515,REDMI Basic Wired Headset with Mic 01DDFW Wired Headset,"Black, In the Ear",3.8,10,399,596,33,Wired Headset,REDMI,In the Ear,Black,197
+516,JBL E25BT Bluetooth Headset,"Red, In the Ear",3.9,5439,2249,3460,35,Bluetooth Headset,JBL,In the Ear,Red,1211
+517,SONY XB450 Wired without Mic Headset,"Red, On the Ear",4.3,27502,2169,4338,50,Mic Headset,SONY,On the Ear,Red,2169
+518,ViVO rock best selling earpis Wired Headset,"Black, In the Ear",3.5,49,237,765,69,Wired Headset,ViVO,In the Ear,Black,528
+519,ViVO NEW TOP EARPHONE WITHE MIC Wired Headset,"White, In the Ear",3.4,103,170,773,78,Wired Headset,ViVO,In the Ear,White,603
+520,Skullcandy Jib Headset with mic,"Pink, In the Ear",4.0,59305,749,999,25,with mic,Skullcandy,In the Ear,Pink,250
+521,Skullcandy Riff BT Bluetooth Headset,"Black, On the Ear",4.1,137,4289,5957,28,Bluetooth Headset,Skullcandy,On the Ear,Black,1668
+522,Skullcandy Cassette Wireless Bluetooth Headset,"Chill Gray, On the Ear",3.8,10,3099,3973,22,Bluetooth Headset,Skullcandy,On the Ear,Chill Gray,874
+523,Skullcandy Sesh Evo Bluetooth Headset,"Pure Mint, True Wireless",4.0,80,4899,8907,45,Bluetooth Headset,Skullcandy,True Wireless,Pure Mint,4008
+524,Portronics POR-175 212 Bluetooth Headset,"Black, In the Ear",3.6,22,898,1497,40,Bluetooth Headset,Portronics,In the Ear,Black,599
+525,SONY XB510AS Wired Headset,"Black, In the Ear",4.3,12,2900,2990,3,Wired Headset,SONY,In the Ear,Black,90
+526,JBL Quantum 50 Wired Gaming Headset,"White, Blue, In the Ear",4.0,138,1599,2498,36,Gaming Headset,JBL,In the Ear,White Blue,899
+527,SONY MDR-ZX110APWCIN Wired Headset,"White, On the Ear",3.3,38,1490,2980,50,Wired Headset,SONY,On the Ear,White,1490
+528,ORAIMO vortex waired earphone Wired Headset,"White, In the Ear",5.0,2,385,448,14,Wired Headset,ORAIMO,In the Ear,White,63
+529,PHILIPS SHK2000BL Wired without Mic Headset,"Blue, On the Ear",3.6,33,1170,1481,21,Mic Headset,PHILIPS,On the Ear,Blue,311
+530,JBL LIVE100 Wired Headset,"White, In the Ear",3.9,568,2099,2499,16,Wired Headset,JBL,In the Ear,White,400
+531,SONY MDR-ZX110 Wired without Mic Headset,"White, On the Ear",4.1,6807,990,1088,9,Mic Headset,SONY,On the Ear,White,98
+532,ORAIMO FREEPODS 2 Bluetooth Headset,"White, True Wireless",3.8,10,2030,3274,38,Bluetooth Headset,ORAIMO,True Wireless,White,1244
+533,Skullcandy Ink'd Plus Wireless Bluetooth Headset,"Red, In the Ear",3.6,99,2789,3984,30,Bluetooth Headset,Skullcandy,In the Ear,Red,1195
+534,ViVO Stylist Bluetooth Headset,"Black, In the Ear",3.1,107,381,1191,68,Bluetooth Headset,ViVO,In the Ear,Black,810
+535,ViVO High Bass Earphones Noise Isolating Wired Headset,"White, In the Ear",3.6,255,170,486,65,Wired Headset,ViVO,In the Ear,White,316
+536,Portronics Harmonics One Sports Bluetooth Headset,"Orange, In the Ear",3.8,187,1099,1998,45,Bluetooth Headset,Portronics,In the Ear,Orange,899
+537,SONY MDR-ZX110/WC(in) Wired without Mic Headset,"White, On the Ear",4.0,1291,920,1000,8,Mic Headset,SONY,On the Ear,White,80
+538,Portronics CONCH GAMA POR 1025 Wired Headset,"Black, In the Ear",3.8,10,369,595,38,Wired Headset,Portronics,In the Ear,Black,226
+539,JBL T110BT Bluetooth Headset,"White, In the Ear",3.9,28088,1785,2479,28,Bluetooth Headset,JBL,In the Ear,White,694
+540,Portronics POR-1193 Conch Gama Wired Headset,"Red-Yellow, In the Ear",4.0,2592,349,592,41,Wired Headset,Portronics,In the Ear,Yellow,243
+541,Portronics Harmonics One Sports Bluetooth Headset,"Black, In the Ear",3.8,187,1099,1998,45,Bluetooth Headset,Portronics,In the Ear,Black,899
+542,PHILIPS SHE3555WT Wired Headset,"White, In the Ear",4.0,885,485,599,19,Wired Headset,PHILIPS,In the Ear,White,114
+543,OPPO R9- All Mobile Wired Headset,"White, In the Ear",3.6,105,189,995,81,Wired Headset,OPPO,In the Ear,White,806
+544,PHILIPS TASH402BK Bluetooth Headset,"Black, On the Ear",4.1,33,4345,8867,51,Bluetooth Headset,PHILIPS,On the Ear,Black,4522
+545,SONY C400BluetoothBlack Bluetooth Headset,"Black, In the Ear",3.9,209,3690,3968,7,Bluetooth Headset,SONY,In the Ear,Black,278
+546,REDMI Sportclub Bluetooth Headset with Mic 033 Wired He...,"Black, In the Ear",3.0,24,399,998,60,,REDMI,In the Ear,Black,599
+547,OPPO SPORTS SOUND STEREO Bluetooth Headset,"Black, In the Ear",3.0,40,389,997,61,Bluetooth Headset,OPPO,In the Ear,Black,608
+548,Skullcandy Ink'd Plus Wireless Bluetooth Headset,"Olive Green, Yellow, In the Ear",3.6,99,2999,3999,25,Bluetooth Headset,Skullcandy,In the Ear,Olive Green Yellow,1000
+549,JBL E15 Wired Headset,"Blue, In the Ear",4.0,1421,1709,1987,14,Wired Headset,JBL,In the Ear,Blue,278
+550,JBL Endurance Sprint Bluetooth Headset,"Teal, In the Ear",3.8,984,3199,4155,23,Bluetooth Headset,JBL,In the Ear,Teal,956
+551,JBL Tune 700BT Bluetooth Headset,"Red, On the Ear",4.0,214,4499,4999,10,Bluetooth Headset,JBL,On the Ear,Red,500
+552,boAt Rockerz 240 Bluetooth Headset,"Blue, In the Ear",4.1,5461,1399,2454,43,Bluetooth Headset,boAt,In the Ear,Blue,1055
+553,SONY MDR-EX15AP_Violet Wired Headset,"Violet, In the Ear",3.9,2778,865,883,2,Wired Headset,SONY,In the Ear,Violet,18
+554,ORAIMO oep-E10 Pure Bass & in-Ear Wired Earphones with ...,"White, In the Ear",3.8,10,299,399,25,,ORAIMO,In the Ear,White,100
+555,REDMI Basic Wired Headset with Mic RSDDF Wired Headset,"Red, Black, In the Ear",2.5,51,299,598,50,Wired Headset,REDMI,In the Ear,Red Black,299
+556,Skullcandy Jib Headset with mic,"Sunset Black, In the Ear",4.0,59305,791,989,20,with mic,Skullcandy,In the Ear,Sunset Black,198
+557,OPPO Sportclub Bluetooth Headset with Mic Bluetooth Hea...,"Black, In the Ear",2.7,7,399,998,60,,OPPO,In the Ear,Black,599
+558,ViVO rocck star smartBuy Bass Wired Headset With Mic Wi...,"Black, In the Ear",3.6,250,249,1186,79,,ViVO,In the Ear,Black,937
+559,Skullcandy Chops Flex Headset with Mic,"Gray Red, In the Ear",4.0,232,1299,1687,23,with Mic,Skullcandy,In the Ear,Gray Red,388
+560,Skullcandy Chops Flex Headset with Mic,"White, In the Ear",4.0,2525,1299,1687,23,with Mic,Skullcandy,In the Ear,White,388
+561,OPPO MH-135 MODEL EARPHONE Wired Headset,"White, In the Ear",3.5,239,190,864,78,Wired Headset,OPPO,In the Ear,White,674
+562,JBL Endurance Sprint Bluetooth Headset,"Yellow, In the Ear",3.8,984,3299,4176,21,Bluetooth Headset,JBL,In the Ear,Yellow,877
+563,PHILIPS SHE2405WT/00 Wired Headset,"White, In the Ear",4.1,1542,899,999,10,Wired Headset,PHILIPS,In the Ear,White,100
+564,PHILIPS 100% Original SHE3555WT Wired Headset,"White, In the Ear",4.0,15,499,594,16,Wired Headset,PHILIPS,In the Ear,White,95
+565,ViVO HBGYGB IUYG KUJ Wired Headset,"White, In the Ear",3.0,5,187,984,81,Wired Headset,ViVO,In the Ear,White,797
+566,OPPO OG Earphone Headphone Wired Headset,"White, In the Ear",3.5,40,249,958,74,Wired Headset,OPPO,In the Ear,White,709
+567,REDMI High Definition Bass Stereo Sound G6 Wired Headse...,"White, In the Ear",3.0,51,249,732,66,,REDMI,In the Ear,White,483
+568,ViVO V Earph-104 Wired Headset,"White, In the Ear",3.2,135,209,836,75,Wired Headset,ViVO,In the Ear,White,627
+569,ViVO High Bass Earphones Noise Isolating 05 Wired Heads...,"White, In the Ear",3.5,131,249,996,75,,ViVO,In the Ear,White,747
+570,Portronics Harmonics 216 POR-1204 Bluetooth Headset,"Red, In the Ear",4.0,4228,1499,1999,25,Bluetooth Headset,Portronics,In the Ear,Red,500
+571,Portronics por-1146 universal mobile earphone with mic ...,"White, In the Ear",3.9,10,349,499,30,,Portronics,In the Ear,White,150
+572,Skullcandy Grind Bluetooth Headset with Mic,"Black Chrome, On the Ear",4.2,467,3999,6895,42,with Mic,Skullcandy,On the Ear,Black Chrome,2896
+573,JBL Live 100BT Bluetooth Headset,"Red, In the Ear",3.6,69,1999,2984,33,Bluetooth Headset,JBL,In the Ear,Red,985
+574,ViVO Deep Bass Wired Earphone with Mic Wired Headset Wi...,"Black, In the Ear",3.3,3,245,544,55,,ViVO,In the Ear,Black,299
+575,OPPO New stylist Bluetooth Headset,"Black, In the Ear",2.7,35,399,998,60,Bluetooth Headset,OPPO,In the Ear,Black,599
+576,Skullcandy Jib Headset with mic,"Red Black, In the Ear",4.0,59305,771,988,22,with mic,Skullcandy,In the Ear,Red Black,217
+577,REDMI Basic Wired Headset with Mic 01DFGGTDYFGTDJ Wired...,"Black, In the Ear",3.2,14,378,591,36,,REDMI,In the Ear,Black,213
+578,JBL Endurance Dive Bluetooth Headset,"Black, In the Ear",3.9,746,4890,7299,33,Bluetooth Headset,JBL,In the Ear,Black,2409
+579,ViVO rock Bass Headset with mic pis Wired Headset Wired...,"Black, In the Ear",3.8,10,239,498,52,,ViVO,In the Ear,Black,259
+580,OPPO R 91 g Wired Headset,"White, In the Ear",3.7,70,217,493,56,Wired Headset,OPPO,In the Ear,White,276
+581,JBL Tune 115BT Bluetooth Headset,"Red, In the Ear",3.8,1944,1899,2499,24,Bluetooth Headset,JBL,In the Ear,Red,600
+582,ViVO eep Bass & Hi-Fi Clear Sound Wired Headset with Mi...,"White, In the Ear",3.5,34,196,891,78,,ViVO,In the Ear,White,695
+583,Portronics POR-004 Muffs R Bluetooth Headset,"Black, On the Ear",4.0,382,2399,3998,40,Bluetooth Headset,Portronics,On the Ear,Black,1599
+584,Skullcandy Stim Headset with mic,"Blue, On the Ear",4.2,465,1599,1999,20,with mic,Skullcandy,On the Ear,Blue,400
+585,"OPPO OPPOA5S Wired, Wired Headset","White, White, In the Ear",3.8,10,164,781,79,Wired Headset,OPPO,In the Ear,White White,617
+586,OPPO EARPHONE ALL MOBILE PHONES Wired Headset Wired wit...,"White, In the Ear",3.8,10,217,986,78,,OPPO,In the Ear,White,769
+587,ViVO best selling top attitude earphonne with mic Wired...,"Black, In the Ear",3.8,10,245,490,50,,ViVO,In the Ear,Black,245
+588,OPPO Earphones Wired Headset,"White, In the Ear",3.6,10,185,974,81,Wired Headset,OPPO,In the Ear,White,789
+589,OPPO EARPHONE OTG ( IN THE EAR ) Wired Headset,"White, In the Ear",3.8,10,199,948,79,Wired Headset,OPPO,In the Ear,White,749
+590,OPPO VJGDYFGJKL;HG Wired Headset,"White, In the Ear",3.8,10,229,996,77,Wired Headset,OPPO,In the Ear,White,767
+591,PHILIPS Bass+ SHE4305 Wired Headset,"Black, In the Ear",3.8,72,639,1278,50,Wired Headset,PHILIPS,In the Ear,Black,639
+592,Skullcandy Cassette Wireless Bluetooth Headset,"Black, On the Ear",3.8,10,2999,3999,25,Bluetooth Headset,Skullcandy,On the Ear,Black,1000
+593,ViVO NEW SPORT Bluetooth Headset,"Black, In the Ear",3.1,84,389,1179,67,Bluetooth Headset,ViVO,In the Ear,Black,790
+594,PHILIPS SHE3705BK/00 Wired Headset,"Black, In the Ear",3.8,10,598,695,14,Wired Headset,PHILIPS,In the Ear,Black,97
+595,OPPO Earphonemic Wired Headset,"White, In the Ear",3.8,10,188,989,81,Wired Headset,OPPO,In the Ear,White,801
+596,ViVO Golden Stylist earphone with mic Wired Headset,"White, In the Ear",3.3,38,399,1078,63,Wired Headset,ViVO,In the Ear,White,679
+597,Skullcandy Jib Wired Headphone,"Red Black, In the Ear",3.8,5208,549,796,31,Wired Headphone,Skullcandy,In the Ear,Red Black,247
+598,Skullcandy S2JPW-N743 Bluetooth Headset,"Bleached Blue, In the Ear",3.4,236,1629,2468,34,Bluetooth Headset,Skullcandy,In the Ear,Bleached Blue,839
+599,SONY zx110lpblack Wired without Mic Headset,"Black, On the Ear",4.2,23,990,1088,9,Mic Headset,SONY,On the Ear,Black,98
+600,SONY XB55 without Mic (Black) Wired without Mic Headset,"Black, In the Ear",4.0,5,2200,2268,3,Mic Headset,SONY,In the Ear,Black,68
+601,OPPO EARPHONE SKS 01 Wired Headset,"White, In the Ear",3.8,10,180,947,81,Wired Headset,OPPO,In the Ear,White,767
+602,REDMI High Definition Bass Stereo Sound UJDF Wired Head...,"White, In the Ear",3.8,10,249,732,66,,REDMI,In the Ear,White,483
+603,ViVO ViVONB Wired Headset,"White, In the Ear",3.8,10,189,591,68,Wired Headset,ViVO,In the Ear,White,402
+604,REDMI Dual Driver 02 Wired Headset,"Black, In the Ear",3.8,10,499,998,50,Wired Headset,REDMI,In the Ear,Black,499
+605,REDMI Dual Driver 08 Wired Headset,"Black, In the Ear",3.8,10,499,998,50,Wired Headset,REDMI,In the Ear,Black,499
+606,ViVO highbass_A Wired Headset,"White, In the Ear",3.3,62,217,748,71,Wired Headset,ViVO,In the Ear,White,531
+607,OPPO 3.5mm-Jack Wired Headset Earphone Wired Headset,"White, In the Ear",3.1,43,210,778,73,Wired Headset,OPPO,In the Ear,White,568
+608,Portronics POR 1050 Bluetooth Headset,"Black, True Wireless",3.0,4,3499,3976,12,Bluetooth Headset,Portronics,True Wireless,Black,477
+609,PHILIPS SHE1405BK Wired Headset,"White, In the Ear",3.8,1088,399,429,7,Wired Headset,PHILIPS,In the Ear,White,30
+610,OPPO EAR PHONE R 11-B Wired without Mic Headset,"White, In the Ear",3.8,10,199,1106,82,Mic Headset,OPPO,In the Ear,White,907
+611,ViVO Stylish Earphones like earpods Wired Headset,"White, In the Ear",3.6,184,217,493,56,Wired Headset,ViVO,In the Ear,White,276
+612,OPPO EARPHONE WITH Wired Headset ( True Wireless) Wired...,"White, In the Ear",3.8,10,249,996,75,,OPPO,In the Ear,White,747
+613,OPPO Earph-002 Wired Headset,"White, In the Ear",3.6,121,237,494,52,Wired Headset,OPPO,In the Ear,White,257
+614,REDMI Basic Wired Headset with Mic 01DF2CF Wired Headse...,"Black, In the Ear",3.8,10,399,596,33,,REDMI,In the Ear,Black,197
+615,ViVO jhu jihuigyu hgyugqsxbugulhlgbda0255 Wired Headset,"White, In the Ear",3.3,54,199,686,71,Wired Headset,ViVO,In the Ear,White,487
+616,OPPO jmd Wired Headset,"White, In the Ear",3.6,18,164,390,58,Wired Headset,OPPO,In the Ear,White,226
+617,OPPO XE680 Earphone Wired Headset,"White, In the Ear",3.5,61,188,895,79,Wired Headset,OPPO,In the Ear,White,707
+618,OPPO EARPHONE WITH Wired Headset,"White, True Wireless",3.8,17,199,796,75,Wired Headset,OPPO,True Wireless,White,597
+619,PHILIPS SHE1505 Pack of 5 Wired Headset,"Black, In the Ear",4.2,12,1599,1974,19,Wired Headset,PHILIPS,In the Ear,Black,375
+620,Skullcandy JibTrue Wireless Bluetooth Headset,"Chill Grey, True Wireless",3.8,10,2999,8821,66,Bluetooth Headset,Skullcandy,True Wireless,Chill Grey,5822
+621,JBL Live 25BT Bluetooth Headset,"Black, In the Ear",3.7,129,1999,4998,60,Bluetooth Headset,JBL,In the Ear,Black,2999
+622,ViVO sporty sport gadgetking Bluetooth Headset,"Black, In the Ear",3.1,9,399,887,55,Bluetooth Headset,ViVO,In the Ear,Black,488
+623,OPPO R11 WIRED EARPHONE FOR ALL SMART PHONES Wired Head...,"White, In the Ear",3.5,162,199,995,80,,OPPO,In the Ear,White,796
+624,Portronics Conch Delta POR-1146 in-Ear Wired Earphone W...,"White, Black, In the Ear",3.8,10,409,499,18,,Portronics,In the Ear,White Black,90
+625,ViVO Best Selling Earphone With Best Quality Wired Head...,"White, In the Ear",3.6,107,217,986,78,,ViVO,In the Ear,White,769
+626,REDMI High Definition Bass Stereo Sound HHGBVGV Wired H...,"White, In the Ear",3.8,10,249,732,66,,REDMI,In the Ear,White,483
+627,OPPO Wired Headphone Wired Headset,"White, In the Ear",3.8,10,166,830,80,Wired Headset,OPPO,In the Ear,White,664
+628,ViVO High Bass Earphones Noise Isolating Wired Headset ...,"White, In the Ear",3.0,4,199,765,74,,ViVO,In the Ear,White,566
+629,OPPO r 5905 otg Wired Headset,"White, In the Ear",3.4,5,195,886,78,Wired Headset,OPPO,In the Ear,White,691
+630,OPPO 0012 Wired Headset,"White, In the Ear",3.8,10,248,496,50,Wired Headset,OPPO,In the Ear,White,248
+631,OPPO Earph-006 Wired Headset,"White, In the Ear",3.6,322,188,783,76,Wired Headset,OPPO,In the Ear,White,595
+632,REDMI High Definition Bass Stereo Sound G6GFFG Wired He...,"White, In the Ear",3.8,10,249,732,66,,REDMI,In the Ear,White,483
+633,ViVO follsibiol ear sport gadgetking Bluetooth Headset,"Black, In the Ear",3.3,10,399,998,60,Bluetooth Headset,ViVO,In the Ear,Black,599
+634,ViVO instert ear sport gadgetking Bluetooth Headset,"Black, In the Ear",2.3,3,399,998,60,Bluetooth Headset,ViVO,In the Ear,Black,599
+635,OPPO R11 WIRED HEADSET PACK OF 2 Wired Headset,"White, In the Ear",3.4,64,241,964,75,Wired Headset,OPPO,In the Ear,White,723
+636,OPPO VHHH Wired Headset,"White, In the Ear",3.0,5,189,859,78,Wired Headset,OPPO,In the Ear,White,670
+637,REDMI Dual Driver 06 Wired Headset,"Black, In the Ear",3.8,10,499,998,50,Wired Headset,REDMI,In the Ear,Black,499
+638,REDMI Basic Wired Headset with Mic 01DFGGDFTDYFGTDJ Wir...,"Black, In the Ear",3.7,10,399,596,33,,REDMI,In the Ear,Black,197
+639,REDMI Dual Driver 012 Wired Headset,"Black, In the Ear",3.8,10,499,998,50,Wired Headset,REDMI,In the Ear,Black,499
+640,JBL Reflect Mini Wired Headset,"Black, In the Ear",3.8,98,3499,6998,50,Wired Headset,JBL,In the Ear,Black,3499
+641,ViVO caly deep bass earphone Wired Headset,"White, In the Ear",3.8,10,175,972,82,Wired Headset,ViVO,In the Ear,White,797
+642,OPPO Stereo Handsfree Wired Headset,"White, In the Ear",3.4,100,249,498,50,Wired Headset,OPPO,In the Ear,White,249
+643,Skullcandy Jib Wired Headphone,"Blue, Black, In the Ear",3.8,21421,549,796,31,Wired Headphone,Skullcandy,In the Ear,Blue Black,247
+644,Skullcandy Jib Plus Wireless Bluetooth Headset,"Pure Mint, In the Ear",3.4,236,1639,2483,34,Bluetooth Headset,Skullcandy,In the Ear,Pure Mint,844
+645,"OPPO Earphone 0001 (White, In the Ear) Wired Headset","White, In the Ear",3.8,10,249,996,75,Wired Headset,OPPO,In the Ear,White,747
+646,REDMI Basic Wired Headset with Mic 01DF2DFFCFFW Wired H...,"Black, In the Ear",2.7,3,399,596,33,,REDMI,In the Ear,Black,197
+647,ORAIMO necklace 2 e74d Bluetooth Headset,"Black, In the Ear",2.6,8,2199,3490,37,Bluetooth Headset,ORAIMO,In the Ear,Black,1291
+648,OPPO buds r-155 wired Wired Headset Wired Headset,"Black, In the Ear",2.9,12,249,593,58,Wired Headset,OPPO,In the Ear,Black,344
+649,OPPO JMD Headphone Wired Headset,"White, In the Ear",3.0,7,199,948,79,Wired Headset,OPPO,In the Ear,White,749
+650,ViVO Wireless Bluetooth Headphones With Mic & FM Functi...,"Black, On the Ear",3.8,10,899,1998,55,,ViVO,On the Ear,Black,1099
+651,REDMI Sportclub Bluetooth Headset with Mic 025 Wired He...,"Black, In the Ear",2.2,9,399,998,60,,REDMI,In the Ear,Black,599
+652,ViVO Black Sport Bluetooth Headset,"Black, In the Ear",2.9,58,399,1174,66,Bluetooth Headset,ViVO,In the Ear,Black,775
+653,REDMI Basic Wired Headset with Mic 012CF Wired Headset,"Black, In the Ear",2.3,3,399,596,33,Wired Headset,REDMI,In the Ear,Black,197
+654,ORAIMO OEB E98D Bluetooth Headset,"White, True Wireless",3.8,10,2995,3993,25,Bluetooth Headset,ORAIMO,True Wireless,White,998
+655,Portronics Phoni 3 Retro Wired Headset,"Grey, On the Ear",3.8,1039,599,644,7,Wired Headset,Portronics,On the Ear,Grey,45
+656,ViVO alternet sport thinkfull gadgetking Bluetooth Head...,"Black, In the Ear",3.0,26,399,887,55,,ViVO,In the Ear,Black,488
+657,OPPO Earphones Wired Headset with Mic Wired Headset Wir...,"White, In the Ear",2.5,6,165,971,83,,OPPO,In the Ear,White,806
+658,REDMI Sportclub Bluetooth Headset with Mic 023 Wired He...,"Black, In the Ear",2.7,6,399,998,60,,REDMI,In the Ear,Black,599
+659,SONY XB550AP / MDR-XB550AP Wired Headset,"Black, On the Ear",4.1,43,3290,6580,50,Wired Headset,SONY,On the Ear,Black,3290
+660,ViVO High Bass Earphones Noise Isolating White 1103 Wir...,"all, In the Ear",3.8,10,175,398,56,,ViVO,In the Ear,all,223
+661,OPPO q02 high bass earphone Wired Headset Wired Headset,"White, In the Ear",2.6,9,199,485,59,Wired Headset,OPPO,In the Ear,White,286
+662,ViVO Sportclub Bluetooth Headset with Mic Wired Headset,"Black, In the Ear",2.8,12,369,1190,69,Wired Headset,ViVO,In the Ear,Black,821
+663,REDMI High Definition Bass Stereo Sound HGFG Wired Head...,"White, In the Ear",3.8,10,249,732,66,,REDMI,In the Ear,White,483
+664,ViVO High Bass Earphones Noise Isolating 1101 Wired Hea...,"all, In the Ear",3.1,10,170,395,57,,ViVO,In the Ear,all,225
+665,PHILIPS SHE2305BK IN EARPHONE WITH MIC Wired Headset,"Black, In the Ear",3.9,89,639,1420,55,Wired Headset,PHILIPS,In the Ear,Black,781
+666,ORAIMO 2 oep-e21 legendary sound with mic Wired Headset,"White, In the Ear",4.3,4,260,299,13,Wired Headset,ORAIMO,In the Ear,White,39
+667,REDMI Basic Wired Headset with Mic 01DTYTDJ Wired Heads...,"Black, In the Ear",2.0,3,399,596,33,,REDMI,In the Ear,Black,197
+668,PHILIPS TX2 Bluetooth without Mic Headset,"Black, In the Ear",2.7,179,290,492,41,Mic Headset,PHILIPS,In the Ear,Black,202
+669,REDMI Basic Wired Headset with Mic 01SDFDFGGDFTDYFGTDJ ...,"Black, In the Ear",2.8,32,399,596,33,,REDMI,In the Ear,Black,197
+670,Skullcandy Chops Flex Headset with Mic,"Royal Blue Swirl, In the Ear",4.0,2525,1299,1687,23,with Mic,Skullcandy,In the Ear,Royal Blue Swirl,388
+671,Skullcandy S2IKDY-010 Wired Headset,"Pink, In the Ear",3.8,10,959,1682,43,Wired Headset,Skullcandy,In the Ear,Pink,723
+672,ViVO astrim ear sport gadgetking Bluetooth Headset,"Black, In the Ear",2.9,17,385,987,61,Bluetooth Headset,ViVO,In the Ear,Black,602
+673,JBL Live 220BT Bluetooth Headset,"Red, In the Ear",3.1,202,3990,5250,24,Bluetooth Headset,JBL,In the Ear,Red,1260
+674,Skullcandy Sesh S2TDW-M723 Bluetooth Headset,"marhoon, True Wireless",3.6,1425,3299,5998,45,Bluetooth Headset,Skullcandy,True Wireless,marhoon,2699
+675,Skullcandy Ink'd Plus Wired Headset,"Red, In the Ear",3.6,60,1299,1493,13,Wired Headset,Skullcandy,In the Ear,Red,194
+676,PHILIPS TAH4205BK/00 Bluetooth Headset,"Black, On the Ear",3.8,10,3999,4999,20,Bluetooth Headset,PHILIPS,On the Ear,Black,1000
+677,REDMI Basic Wired Headset with Mic 01DF2CFFW Wired Head...,"Black, In the Ear",2.2,9,399,596,33,,REDMI,In the Ear,Black,197
+678,REDMI Basic Wired Headset with Mic 01DFGTYTDJ Wired Hea...,"Black, In the Ear",2.5,20,399,596,33,,REDMI,In the Ear,Black,197
+679,Skullcandy Stim Headset with mic,"White Gray, On the Ear",4.2,465,1599,1999,20,with mic,Skullcandy,On the Ear,White Gray,400
+680,Skullcandy S2DUL-J416 Wired Headset,"Pink/Black, In the Ear",4.0,91235,679,1095,38,Wired Headset,Skullcandy,In the Ear,Black,416
+681,ViVO Golden high cable wire controllable earbuds Wired ...,"White, Gold, In the Ear",2.6,7,399,1174,66,,ViVO,In the Ear,White Gold,775
+682,boAt Airdopes 131 Bluetooth Headset,"DC Blue, True Wireless",4.2,718,1049,2098,50,Bluetooth Headset,boAt,True Wireless,DC Blue,1049
+683,REDMI High Definition Bass Stereo 04G5 Wired Headset,"White, In the Ear",3.8,10,249,732,66,Wired Headset,REDMI,In the Ear,White,483
+684,ViVO White C-Type Earph Vi010 Wired Headset,"White, In the Ear",2.5,6,490,1750,72,Wired Headset,ViVO,In the Ear,White,1260
+685,boAt Airdopes 461 Bluetooth Headset,"Active Black, True Wireless",3.8,2744,2999,7892,62,Bluetooth Headset,boAt,True Wireless,Active Black,4893
+686,REDMI High Definition Bass Stereo Sound Wired Headset,"White, In the Ear",3.0,16,249,732,66,Wired Headset,REDMI,In the Ear,White,483
+687,REDMI High Definition Bass Stereo 045 Wired Headset,"White, In the Ear",3.4,7,249,732,66,Wired Headset,REDMI,In the Ear,White,483
+688,ViVO EARPHONE high Wired Headset,"White, In the Ear",2.6,11,180,391,54,Wired Headset,ViVO,In the Ear,White,211
+689,JBL Tune600BTNC Bluetooth Headset,"White, On the Ear",3.8,10,4299,6934,38,Bluetooth Headset,JBL,On the Ear,White,2635
+690,ViVO Bass Headset with good sound cliarity Wired Headse...,"White, In the Ear",3.8,10,249,996,75,,ViVO,In the Ear,White,747
+691,Skullcandy Ink'd Plus Wired Headset,"Mod White, In the Ear",3.8,10,1299,1998,35,Wired Headset,Skullcandy,In the Ear,Mod White,699
+692,ViVO Earphones Wired Headset,"White, In the Ear",2.7,7,199,737,73,Wired Headset,ViVO,In the Ear,White,538
+693,ViVO JHUIH UOHOE U Wired Headset,"White, In the Ear",3.8,10,198,683,71,Wired Headset,ViVO,In the Ear,White,485
+694,SONY XB510AS Wired Headset,"Green, In the Ear",4.5,15,2990,5980,50,Wired Headset,SONY,In the Ear,Green,2990
+695,ORAIMO VOEX E-23 Wired Headset,"White, In the Ear",4.5,13,399,448,11,Wired Headset,ORAIMO,In the Ear,White,49
+696,PHILIPS SHE3555RD Wired Headset,"Red, In the Ear",4.0,15,549,597,8,Wired Headset,PHILIPS,In the Ear,Red,48
+697,ORAIMO Universal earphone with mic and deep bass Wired ...,"Black, In the Ear",3.0,8,340,493,31,,ORAIMO,In the Ear,Black,153
+698,Skullcandy Jib Plus Active Sport Wireless Bluetooth Hea...,"Red, In the Ear",3.8,54,2049,3940,48,,Skullcandy,In the Ear,Red,1891
+699,ORAIMO OEP-E21 Wired Headset,"White, In the Ear",3.8,10,259,288,10,Wired Headset,ORAIMO,In the Ear,White,29
+700,ViVO Earphone Wired Headset,"White, In the Ear",3.2,65,199,995,80,Wired Headset,ViVO,In the Ear,White,796
+701,ViVO new stylist earphone with mic Wired Headset (White...,"White, In the Ear",3.8,10,199,948,79,,ViVO,In the Ear,White,749
+702,ViVO r60 Wired Headset,"Black, In the Ear",3.8,10,228,585,61,Wired Headset,ViVO,In the Ear,Black,357
+703,OPPO Earphone 031 Wired Headset,"White, In the Ear",3.8,10,249,996,75,Wired Headset,OPPO,In the Ear,White,747
+704,OPPO 3.5mm-Jack Wired Headset Wired Headset,"White, In the Ear",2.0,6,161,767,79,Wired Headset,OPPO,In the Ear,White,606
+705,ViVO VIJHGFYVB YUGEYFHE Wired Headset,"White, In the Ear",3.8,10,199,686,71,Wired Headset,ViVO,In the Ear,White,487
+706,Portronics Muffs M Pro 1074 Bluetooth Headset,"Black, True Wireless",3.8,10,1459,1999,27,Bluetooth Headset,Portronics,True Wireless,Black,540
+707,Portronics Conch 202 Wired Headset,"White, In the Ear",3.8,10,599,697,14,Wired Headset,Portronics,In the Ear,White,98
+708,Portronics DELTA IN EAR EARPHONE POR 1146 Wired Headset,"White, In the Ear",3.8,10,399,499,20,Wired Headset,Portronics,In the Ear,White,100
+709,OPPO KJHGTYDEFIUB HGYUGKGUT KHGJV Wired Headset,"White, In the Ear",3.8,10,249,692,64,Wired Headset,OPPO,In the Ear,White,443
+710,ViVO v erph Wired Headset,"White, In the Ear",3.8,10,210,583,64,Wired Headset,ViVO,In the Ear,White,373
+711,OPPO LJHUIH KJB J 5491RS VEVE Wired Headset,"White, In the Ear",3.8,10,247,882,72,Wired Headset,OPPO,In the Ear,White,635
+712,PHILIPS Unisex In-Ear Headphones Bluetooth Headset,"White, On the Ear",3.8,10,1924,3498,45,Bluetooth Headset,PHILIPS,On the Ear,White,1574
+713,ViVO tab ear sport gadgetking Bluetooth Headset,"Black, In the Ear",2.8,5,399,887,55,Bluetooth Headset,ViVO,In the Ear,Black,488
+714,JBL 100% Original t50-hi Wired Wired Headset,"Blue, In the Ear",3.8,10,699,999,30,Wired Headset,JBL,In the Ear,Blue,300
+715,boAt Airdopes 711 Bluetooth Headset,"Active Black, True Wireless",3.4,78,4999,11902,58,Bluetooth Headset,boAt,True Wireless,Active Black,6903
+716,REDMI Dual Driver 016 Wired Headset,"Black, In the Ear",3.8,10,499,998,50,Wired Headset,REDMI,In the Ear,Black,499
+717,boAt Airdopes 461 Bluetooth Headset,"Bold Blue, True Wireless",3.8,2744,2999,7892,62,Bluetooth Headset,boAt,True Wireless,Bold Blue,4893
+718,"Portronics Muffs Pro, POR-645 Bluetooth without Mic Hea...","Black, On the Ear",4.1,38,1999,2499,20,,Portronics,On the Ear,Black,500
+719,Skullcandy S2DUY-L102 Wired Headset,"Green Black, In the Ear",2.9,17,785,994,21,Wired Headset,Skullcandy,In the Ear,Green Black,209
+720,Skullcandy Jib Plus Active Sport Wireless Bluetooth Hea...,"Blue, In the Ear",3.8,54,2079,3998,48,,Skullcandy,In the Ear,Blue,1919
+721,PHILIPS SHB4305WT Bluetooth Headset,"White, In the Ear",3.0,99,1599,3476,54,Bluetooth Headset,PHILIPS,In the Ear,White,1877
+722,OPPO Wireless Bluetooth Headphone With Mic & Fm Functio...,"Black, On the Ear",3.8,10,899,1873,52,,OPPO,On the Ear,Black,974
